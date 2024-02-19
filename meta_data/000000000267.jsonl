@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored knifes or multicolored pizzas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000199771.jpg", "../coco/val2017/000000092660.jpg"]}
+{"image": "../coco/val2017/000000199771.jpg"}
+{"image": "../coco/val2017/000000092660.jpg"}
+{"image": "../coco/val2017/000000099039.jpg"}
+{"image": "../coco/val2017/000000322959.jpg"}
+{"image": "../coco/val2017/000000163611.jpg"}

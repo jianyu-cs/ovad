@@ -1,0 +1,6 @@
+{"utterance": "There are opaque spoons or unicolored apples in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000091654.jpg", "../coco/val2017/000000213935.jpg"]}
+{"image": "../coco/val2017/000000091654.jpg"}
+{"image": "../coco/val2017/000000213935.jpg"}
+{"image": "../coco/val2017/000000562059.jpg"}
+{"image": "../coco/val2017/000000226147.jpg"}
+{"image": "../coco/val2017/000000138954.jpg"}

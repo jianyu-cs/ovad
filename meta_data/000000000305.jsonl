@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned cars or white sheeps in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000212559.jpg", "../coco/val2017/000000068093.jpg"]}
+{"image": "../coco/val2017/000000212559.jpg"}
+{"image": "../coco/val2017/000000068093.jpg"}
+{"image": "../coco/val2017/000000176606.jpg"}
+{"image": "../coco/val2017/000000528524.jpg"}
+{"image": "../coco/val2017/000000220732.jpg"}

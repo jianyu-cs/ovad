@@ -1,0 +1,6 @@
+{"utterance": "There are standing birds or black knifes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000376264.jpg", "../coco/val2017/000000041888.jpg"]}
+{"image": "../coco/val2017/000000376264.jpg"}
+{"image": "../coco/val2017/000000041888.jpg"}
+{"image": "../coco/val2017/000000017899.jpg"}
+{"image": "../coco/val2017/000000113720.jpg"}
+{"image": "../coco/val2017/000000046378.jpg"}

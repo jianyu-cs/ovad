@@ -1,0 +1,6 @@
+{"utterance": "There are white dogs or two-colored sheeps in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000008690.jpg", "../coco/val2017/000000401991.jpg"]}
+{"image": "../coco/val2017/000000008690.jpg"}
+{"image": "../coco/val2017/000000401991.jpg"}
+{"image": "../coco/val2017/000000129756.jpg"}
+{"image": "../coco/val2017/000000198960.jpg"}
+{"image": "../coco/val2017/000000309484.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are lying laptops or striped beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000226592.jpg", "../coco/val2017/000000148620.jpg"]}
+{"image": "../coco/val2017/000000226592.jpg"}
+{"image": "../coco/val2017/000000148620.jpg"}
+{"image": "../coco/val2017/000000111609.jpg"}
+{"image": "../coco/val2017/000000061333.jpg"}
+{"image": "../coco/val2017/000000063602.jpg"}

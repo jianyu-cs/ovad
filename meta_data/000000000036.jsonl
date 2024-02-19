@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored snowboards or gray skiss in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000193429.jpg", "../coco/val2017/000000131556.jpg"]}
+{"image": "../coco/val2017/000000193429.jpg"}
+{"image": "../coco/val2017/000000131556.jpg"}
+{"image": "../coco/val2017/000000142790.jpg"}
+{"image": "../coco/val2017/000000341719.jpg"}
+{"image": "../coco/val2017/000000544444.jpg"}

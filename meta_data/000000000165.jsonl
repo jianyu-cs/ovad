@@ -1,0 +1,6 @@
+{"utterance": "There are standing benchs or two-colored traffic lights in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000058393.jpg", "../coco/val2017/000000307074.jpg"]}
+{"image": "../coco/val2017/000000058393.jpg"}
+{"image": "../coco/val2017/000000307074.jpg"}
+{"image": "../coco/val2017/000000323751.jpg"}
+{"image": "../coco/val2017/000000039785.jpg"}
+{"image": "../coco/val2017/000000361103.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are lying skiss or two-colored snowboards in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000044195.jpg", "../coco/val2017/000000005529.jpg"]}
+{"image": "../coco/val2017/000000044195.jpg"}
+{"image": "../coco/val2017/000000005529.jpg"}
+{"image": "../coco/val2017/000000411530.jpg"}
+{"image": "../coco/val2017/000000023359.jpg"}
+{"image": "../coco/val2017/000000308793.jpg"}

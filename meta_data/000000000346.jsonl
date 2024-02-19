@@ -1,0 +1,6 @@
+{"utterance": "There are standing cars or blue fire hydrants in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000087875.jpg", "../coco/val2017/000000315450.jpg"]}
+{"image": "../coco/val2017/000000087875.jpg"}
+{"image": "../coco/val2017/000000315450.jpg"}
+{"image": "../coco/val2017/000000293071.jpg"}
+{"image": "../coco/val2017/000000255718.jpg"}
+{"image": "../coco/val2017/000000372260.jpg"}

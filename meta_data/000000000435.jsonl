@@ -1,0 +1,6 @@
+{"utterance": "There are lying keyboards or white books in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000195918.jpg", "../coco/val2017/000000323202.jpg"]}
+{"image": "../coco/val2017/000000195918.jpg"}
+{"image": "../coco/val2017/000000323202.jpg"}
+{"image": "../coco/val2017/000000189820.jpg"}
+{"image": "../coco/val2017/000000255165.jpg"}
+{"image": "../coco/val2017/000000421923.jpg"}

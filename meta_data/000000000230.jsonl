@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned skateboards or standing bicycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000356387.jpg", "../coco/val2017/000000559160.jpg"]}
+{"image": "../coco/val2017/000000356387.jpg"}
+{"image": "../coco/val2017/000000559160.jpg"}
+{"image": "../coco/val2017/000000093717.jpg"}
+{"image": "../coco/val2017/000000132375.jpg"}
+{"image": "../coco/val2017/000000279278.jpg"}

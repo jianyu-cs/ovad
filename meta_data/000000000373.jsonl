@@ -1,0 +1,6 @@
+{"utterance": "There are adult dogs or transparent bottles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000253386.jpg", "../coco/val2017/000000236914.jpg"]}
+{"image": "../coco/val2017/000000253386.jpg"}
+{"image": "../coco/val2017/000000236914.jpg"}
+{"image": "../coco/val2017/000000145781.jpg"}
+{"image": "../coco/val2017/000000139099.jpg"}
+{"image": "../coco/val2017/000000026564.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are gray vases or white remotes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000512403.jpg", "../coco/val2017/000000190637.jpg"]}
+{"image": "../coco/val2017/000000512403.jpg"}
+{"image": "../coco/val2017/000000190637.jpg"}
+{"image": "../coco/val2017/000000512657.jpg"}
+{"image": "../coco/val2017/000000057232.jpg"}
+{"image": "../coco/val2017/000000055528.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are white dogs or unicolored oranges in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000145781.jpg", "../coco/val2017/000000523100.jpg"]}
+{"image": "../coco/val2017/000000145781.jpg"}
+{"image": "../coco/val2017/000000523100.jpg"}
+{"image": "../coco/val2017/000000029393.jpg"}
+{"image": "../coco/val2017/000000446522.jpg"}
+{"image": "../coco/val2017/000000104669.jpg"}

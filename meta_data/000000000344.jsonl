@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned elephants or unicolored sports balls in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000103723.jpg", "../coco/val2017/000000042296.jpg"]}
+{"image": "../coco/val2017/000000103723.jpg"}
+{"image": "../coco/val2017/000000042296.jpg"}
+{"image": "../coco/val2017/000000368961.jpg"}
+{"image": "../coco/val2017/000000080274.jpg"}
+{"image": "../coco/val2017/000000022935.jpg"}

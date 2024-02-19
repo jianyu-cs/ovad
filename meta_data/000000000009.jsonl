@@ -1,0 +1,6 @@
+{"utterance": "There are white cats or opaque sinks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000432468.jpg", "../coco/val2017/000000164637.jpg"]}
+{"image": "../coco/val2017/000000432468.jpg"}
+{"image": "../coco/val2017/000000164637.jpg"}
+{"image": "../coco/val2017/000000209747.jpg"}
+{"image": "../coco/val2017/000000078426.jpg"}
+{"image": "../coco/val2017/000000007574.jpg"}

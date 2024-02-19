@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored cows or white trucks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000191013.jpg", "../coco/val2017/000000272212.jpg"]}
+{"image": "../coco/val2017/000000191013.jpg"}
+{"image": "../coco/val2017/000000272212.jpg"}
+{"image": "../coco/val2017/000000114907.jpg"}
+{"image": "../coco/val2017/000000297022.jpg"}
+{"image": "../coco/val2017/000000229858.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored books or lying scissorss in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000324715.jpg", "../coco/val2017/000000326970.jpg"]}
+{"image": "../coco/val2017/000000324715.jpg"}
+{"image": "../coco/val2017/000000326970.jpg"}
+{"image": "../coco/val2017/000000255483.jpg"}
+{"image": "../coco/val2017/000000351096.jpg"}
+{"image": "../coco/val2017/000000176446.jpg"}

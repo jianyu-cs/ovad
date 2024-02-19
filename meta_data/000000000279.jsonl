@@ -1,0 +1,6 @@
+{"utterance": "There are gray trains or standing suitcases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000312421.jpg", "../coco/val2017/000000106281.jpg"]}
+{"image": "../coco/val2017/000000312421.jpg"}
+{"image": "../coco/val2017/000000106281.jpg"}
+{"image": "../coco/val2017/000000469246.jpg"}
+{"image": "../coco/val2017/000000500257.jpg"}
+{"image": "../coco/val2017/000000566524.jpg"}

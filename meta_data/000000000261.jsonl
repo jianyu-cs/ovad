@@ -1,0 +1,6 @@
+{"utterance": "There are green couchs or opaque refrigerators in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000194724.jpg", "../coco/val2017/000000300913.jpg"]}
+{"image": "../coco/val2017/000000194724.jpg"}
+{"image": "../coco/val2017/000000300913.jpg"}
+{"image": "../coco/val2017/000000036844.jpg"}
+{"image": "../coco/val2017/000000068833.jpg"}
+{"image": "../coco/val2017/000000473821.jpg"}

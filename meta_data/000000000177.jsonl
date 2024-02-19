@@ -1,0 +1,6 @@
+{"utterance": "There are white trucks or green buss in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000334371.jpg", "../coco/val2017/000000109900.jpg"]}
+{"image": "../coco/val2017/000000334371.jpg"}
+{"image": "../coco/val2017/000000109900.jpg"}
+{"image": "../coco/val2017/000000026204.jpg"}
+{"image": "../coco/val2017/000000356612.jpg"}
+{"image": "../coco/val2017/000000009769.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are black birds or plain patterned kites in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000315001.jpg", "../coco/val2017/000000099024.jpg"]}
+{"image": "../coco/val2017/000000315001.jpg"}
+{"image": "../coco/val2017/000000099024.jpg"}
+{"image": "../coco/val2017/000000186345.jpg"}
+{"image": "../coco/val2017/000000289393.jpg"}
+{"image": "../coco/val2017/000000067406.jpg"}

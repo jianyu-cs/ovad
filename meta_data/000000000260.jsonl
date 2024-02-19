@@ -1,0 +1,6 @@
+{"utterance": "There are standing kites or standing surfboards in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000154425.jpg", "../coco/val2017/000000005193.jpg"]}
+{"image": "../coco/val2017/000000154425.jpg"}
+{"image": "../coco/val2017/000000005193.jpg"}
+{"image": "../coco/val2017/000000477955.jpg"}
+{"image": "../coco/val2017/000000181303.jpg"}
+{"image": "../coco/val2017/000000142971.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored mouses or two-colored books in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000372466.jpg", "../coco/val2017/000000231831.jpg"]}
+{"image": "../coco/val2017/000000372466.jpg"}
+{"image": "../coco/val2017/000000231831.jpg"}
+{"image": "../coco/val2017/000000037740.jpg"}
+{"image": "../coco/val2017/000000348481.jpg"}
+{"image": "../coco/val2017/000000326970.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are white benchs or unicolored frisbees in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000058393.jpg", "../coco/val2017/000000139872.jpg"]}
+{"image": "../coco/val2017/000000058393.jpg"}
+{"image": "../coco/val2017/000000139872.jpg"}
+{"image": "../coco/val2017/000000225670.jpg"}
+{"image": "../coco/val2017/000000289417.jpg"}
+{"image": "../coco/val2017/000000006954.jpg"}

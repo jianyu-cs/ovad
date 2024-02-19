@@ -1,0 +1,6 @@
+{"utterance": "There are brown boats or plain patterned umbrellas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000311518.jpg", "../coco/val2017/000000137246.jpg"]}
+{"image": "../coco/val2017/000000311518.jpg"}
+{"image": "../coco/val2017/000000137246.jpg"}
+{"image": "../coco/val2017/000000050006.jpg"}
+{"image": "../coco/val2017/000000148730.jpg"}
+{"image": "../coco/val2017/000000060052.jpg"}

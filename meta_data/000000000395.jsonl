@@ -1,0 +1,6 @@
+{"utterance": "There are black suitcases or lying beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000263644.jpg", "../coco/val2017/000000084650.jpg"]}
+{"image": "../coco/val2017/000000263644.jpg"}
+{"image": "../coco/val2017/000000084650.jpg"}
+{"image": "../coco/val2017/000000051738.jpg"}
+{"image": "../coco/val2017/000000283412.jpg"}
+{"image": "../coco/val2017/000000359855.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored knifes or two-colored ovens in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000109976.jpg", "../coco/val2017/000000116206.jpg"]}
+{"image": "../coco/val2017/000000109976.jpg"}
+{"image": "../coco/val2017/000000116206.jpg"}
+{"image": "../coco/val2017/000000437898.jpg"}
+{"image": "../coco/val2017/000000292060.jpg"}
+{"image": "../coco/val2017/000000153632.jpg"}

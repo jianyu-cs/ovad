@@ -1,0 +1,6 @@
+{"utterance": "There are gray benchs or multicolored kites in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000124442.jpg", "../coco/val2017/000000295713.jpg"]}
+{"image": "../coco/val2017/000000124442.jpg"}
+{"image": "../coco/val2017/000000295713.jpg"}
+{"image": "../coco/val2017/000000361730.jpg"}
+{"image": "../coco/val2017/000000428454.jpg"}
+{"image": "../coco/val2017/000000225670.jpg"}

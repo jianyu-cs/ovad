@@ -1,0 +1,6 @@
+{"utterance": "There are lying surfboards or opaque kites in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000142971.jpg", "../coco/val2017/000000067406.jpg"]}
+{"image": "../coco/val2017/000000142971.jpg"}
+{"image": "../coco/val2017/000000067406.jpg"}
+{"image": "../coco/val2017/000000015660.jpg"}
+{"image": "../coco/val2017/000000529939.jpg"}
+{"image": "../coco/val2017/000000099024.jpg"}

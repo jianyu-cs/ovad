@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored refrigerators or unicolored ovens in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000283717.jpg", "../coco/val2017/000000074209.jpg"]}
+{"image": "../coco/val2017/000000283717.jpg"}
+{"image": "../coco/val2017/000000074209.jpg"}
+{"image": "../coco/val2017/000000565776.jpg"}
+{"image": "../coco/val2017/000000138856.jpg"}
+{"image": "../coco/val2017/000000186980.jpg"}

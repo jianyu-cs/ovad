@@ -1,0 +1,6 @@
+{"utterance": "There are males or blue toothbrushs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000241319.jpg", "../coco/val2017/000000127530.jpg"]}
+{"image": "../coco/val2017/000000241319.jpg"}
+{"image": "../coco/val2017/000000127530.jpg"}
+{"image": "../coco/val2017/000000193348.jpg"}
+{"image": "../coco/val2017/000000309484.jpg"}
+{"image": "../coco/val2017/000000022935.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned couchs or black remotes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000017899.jpg", "../coco/val2017/000000430286.jpg"]}
+{"image": "../coco/val2017/000000017899.jpg"}
+{"image": "../coco/val2017/000000430286.jpg"}
+{"image": "../coco/val2017/000000084362.jpg"}
+{"image": "../coco/val2017/000000055528.jpg"}
+{"image": "../coco/val2017/000000157046.jpg"}

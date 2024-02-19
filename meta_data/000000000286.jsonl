@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored sinks or tiled potted plants in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000239041.jpg", "../coco/val2017/000000115870.jpg"]}
+{"image": "../coco/val2017/000000239041.jpg"}
+{"image": "../coco/val2017/000000115870.jpg"}
+{"image": "../coco/val2017/000000221708.jpg"}
+{"image": "../coco/val2017/000000500464.jpg"}
+{"image": "../coco/val2017/000000372260.jpg"}

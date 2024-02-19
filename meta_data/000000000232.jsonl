@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned motorcycles or multicolored trucks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000147740.jpg", "../coco/val2017/000000350003.jpg"]}
+{"image": "../coco/val2017/000000147740.jpg"}
+{"image": "../coco/val2017/000000350003.jpg"}
+{"image": "../coco/val2017/000000270066.jpg"}
+{"image": "../coco/val2017/000000149406.jpg"}
+{"image": "../coco/val2017/000000579158.jpg"}

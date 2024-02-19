@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored sinks or black ovens in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000078266.jpg", "../coco/val2017/000000343466.jpg"]}
+{"image": "../coco/val2017/000000078266.jpg"}
+{"image": "../coco/val2017/000000343466.jpg"}
+{"image": "../coco/val2017/000000458768.jpg"}
+{"image": "../coco/val2017/000000009772.jpg"}
+{"image": "../coco/val2017/000000030213.jpg"}

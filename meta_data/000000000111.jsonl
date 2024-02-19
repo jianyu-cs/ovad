@@ -1,0 +1,6 @@
+{"utterance": "There are adult persons or standing airplanes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000336309.jpg", "../coco/val2017/000000345385.jpg"]}
+{"image": "../coco/val2017/000000336309.jpg"}
+{"image": "../coco/val2017/000000345385.jpg"}
+{"image": "../coco/val2017/000000183500.jpg"}
+{"image": "../coco/val2017/000000144114.jpg"}
+{"image": "../coco/val2017/000000107339.jpg"}

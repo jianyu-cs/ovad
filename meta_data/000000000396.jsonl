@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored parking meters or black benchs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000230450.jpg", "../coco/val2017/000000410880.jpg"]}
+{"image": "../coco/val2017/000000230450.jpg"}
+{"image": "../coco/val2017/000000410880.jpg"}
+{"image": "../coco/val2017/000000234757.jpg"}
+{"image": "../coco/val2017/000000135410.jpg"}
+{"image": "../coco/val2017/000000070229.jpg"}

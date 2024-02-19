@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored backpacks or unicolored horses in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000121242.jpg", "../coco/val2017/000000030828.jpg"]}
+{"image": "../coco/val2017/000000121242.jpg"}
+{"image": "../coco/val2017/000000030828.jpg"}
+{"image": "../coco/val2017/000000261888.jpg"}
+{"image": "../coco/val2017/000000040036.jpg"}
+{"image": "../coco/val2017/000000309964.jpg"}

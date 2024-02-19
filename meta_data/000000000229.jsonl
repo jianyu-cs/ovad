@@ -1,0 +1,6 @@
+{"utterance": "There are standing sinks or unicolored toilets in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000523229.jpg", "../coco/val2017/000000514914.jpg"]}
+{"image": "../coco/val2017/000000523229.jpg"}
+{"image": "../coco/val2017/000000514914.jpg"}
+{"image": "../coco/val2017/000000327769.jpg"}
+{"image": "../coco/val2017/000000551304.jpg"}
+{"image": "../coco/val2017/000000066231.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored cows or white clocks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000161642.jpg", "../coco/val2017/000000014888.jpg"]}
+{"image": "../coco/val2017/000000161642.jpg"}
+{"image": "../coco/val2017/000000014888.jpg"}
+{"image": "../coco/val2017/000000206135.jpg"}
+{"image": "../coco/val2017/000000146825.jpg"}
+{"image": "../coco/val2017/000000222863.jpg"}

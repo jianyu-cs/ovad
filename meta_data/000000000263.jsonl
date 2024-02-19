@@ -1,0 +1,6 @@
+{"utterance": "There are opaque cell phones or two-colored birds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000374551.jpg", "../coco/val2017/000000214869.jpg"]}
+{"image": "../coco/val2017/000000374551.jpg"}
+{"image": "../coco/val2017/000000214869.jpg"}
+{"image": "../coco/val2017/000000119233.jpg"}
+{"image": "../coco/val2017/000000001268.jpg"}
+{"image": "../coco/val2017/000000213035.jpg"}

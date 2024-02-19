@@ -1,0 +1,6 @@
+{"utterance": "There are lying microwaves or white ovens in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000437898.jpg", "../coco/val2017/000000199681.jpg"]}
+{"image": "../coco/val2017/000000437898.jpg"}
+{"image": "../coco/val2017/000000199681.jpg"}
+{"image": "../coco/val2017/000000109976.jpg"}
+{"image": "../coco/val2017/000000236592.jpg"}
+{"image": "../coco/val2017/000000319696.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are adult persons or white toilets in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000089761.jpg", "../coco/val2017/000000353027.jpg"]}
+{"image": "../coco/val2017/000000089761.jpg"}
+{"image": "../coco/val2017/000000353027.jpg"}
+{"image": "../coco/val2017/000000037670.jpg"}
+{"image": "../coco/val2017/000000352584.jpg"}
+{"image": "../coco/val2017/000000002299.jpg"}

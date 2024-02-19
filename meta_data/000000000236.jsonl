@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored motorcycles or multicolored stop signs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000402096.jpg", "../coco/val2017/000000279887.jpg"]}
+{"image": "../coco/val2017/000000402096.jpg"}
+{"image": "../coco/val2017/000000279887.jpg"}
+{"image": "../coco/val2017/000000314251.jpg"}
+{"image": "../coco/val2017/000000214200.jpg"}
+{"image": "../coco/val2017/000000146667.jpg"}

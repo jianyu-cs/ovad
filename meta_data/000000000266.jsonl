@@ -1,0 +1,6 @@
+{"utterance": "There are gray laptops or white beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000385997.jpg", "../coco/val2017/000000206218.jpg"]}
+{"image": "../coco/val2017/000000385997.jpg"}
+{"image": "../coco/val2017/000000206218.jpg"}
+{"image": "../coco/val2017/000000134112.jpg"}
+{"image": "../coco/val2017/000000039769.jpg"}
+{"image": "../coco/val2017/000000271728.jpg"}

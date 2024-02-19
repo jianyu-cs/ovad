@@ -1,0 +1,6 @@
+{"utterance": "There are gray airplanes or unicolored cars in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000205401.jpg", "../coco/val2017/000000023272.jpg"]}
+{"image": "../coco/val2017/000000205401.jpg"}
+{"image": "../coco/val2017/000000023272.jpg"}
+{"image": "../coco/val2017/000000084752.jpg"}
+{"image": "../coco/val2017/000000131386.jpg"}
+{"image": "../coco/val2017/000000054967.jpg"}

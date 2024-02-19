@@ -1,0 +1,6 @@
+{"utterance": "There are lying cell phones or brown sandwichs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000438226.jpg", "../coco/val2017/000000300039.jpg"]}
+{"image": "../coco/val2017/000000438226.jpg"}
+{"image": "../coco/val2017/000000300039.jpg"}
+{"image": "../coco/val2017/000000120853.jpg"}
+{"image": "../coco/val2017/000000339442.jpg"}
+{"image": "../coco/val2017/000000302882.jpg"}

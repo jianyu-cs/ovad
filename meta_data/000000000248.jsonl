@@ -1,0 +1,6 @@
+{"utterance": "There are brown dogs or two-colored beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000206831.jpg", "../coco/val2017/000000106389.jpg"]}
+{"image": "../coco/val2017/000000206831.jpg"}
+{"image": "../coco/val2017/000000106389.jpg"}
+{"image": "../coco/val2017/000000401991.jpg"}
+{"image": "../coco/val2017/000000224200.jpg"}
+{"image": "../coco/val2017/000000068286.jpg"}

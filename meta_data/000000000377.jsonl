@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored dogs or unicolored benchs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000246454.jpg", "../coco/val2017/000000433103.jpg"]}
+{"image": "../coco/val2017/000000246454.jpg"}
+{"image": "../coco/val2017/000000433103.jpg"}
+{"image": "../coco/val2017/000000365207.jpg"}
+{"image": "../coco/val2017/000000206831.jpg"}
+{"image": "../coco/val2017/000000282046.jpg"}

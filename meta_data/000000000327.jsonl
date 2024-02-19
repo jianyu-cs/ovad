@@ -1,0 +1,6 @@
+{"utterance": "There are yellow buss or red traffic lights in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000054967.jpg", "../coco/val2017/000000017207.jpg"]}
+{"image": "../coco/val2017/000000054967.jpg"}
+{"image": "../coco/val2017/000000017207.jpg"}
+{"image": "../coco/val2017/000000057149.jpg"}
+{"image": "../coco/val2017/000000119516.jpg"}
+{"image": "../coco/val2017/000000210394.jpg"}

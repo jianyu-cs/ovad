@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored cups or red hot dogs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000210230.jpg", "../coco/val2017/000000361238.jpg"]}
+{"image": "../coco/val2017/000000210230.jpg"}
+{"image": "../coco/val2017/000000361238.jpg"}
+{"image": "../coco/val2017/000000283113.jpg"}
+{"image": "../coco/val2017/000000093353.jpg"}
+{"image": "../coco/val2017/000000279730.jpg"}

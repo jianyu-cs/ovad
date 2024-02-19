@@ -1,0 +1,6 @@
+{"utterance": "There are opaque toasters or opaque scissorss in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000232348.jpg", "../coco/val2017/000000311180.jpg"]}
+{"image": "../coco/val2017/000000232348.jpg"}
+{"image": "../coco/val2017/000000311180.jpg"}
+{"image": "../coco/val2017/000000173008.jpg"}
+{"image": "../coco/val2017/000000066841.jpg"}
+{"image": "../coco/val2017/000000324715.jpg"}

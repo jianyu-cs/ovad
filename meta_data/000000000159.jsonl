@@ -1,0 +1,6 @@
+{"utterance": "There are red handbags or lying suitcases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000500257.jpg", "../coco/val2017/000000259640.jpg"]}
+{"image": "../coco/val2017/000000500257.jpg"}
+{"image": "../coco/val2017/000000259640.jpg"}
+{"image": "../coco/val2017/000000084650.jpg"}
+{"image": "../coco/val2017/000000348881.jpg"}
+{"image": "../coco/val2017/000000257169.jpg"}

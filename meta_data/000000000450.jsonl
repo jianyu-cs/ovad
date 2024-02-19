@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned airplanes or yellow cars in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000055150.jpg", "../coco/val2017/000000110721.jpg"]}
+{"image": "../coco/val2017/000000055150.jpg"}
+{"image": "../coco/val2017/000000110721.jpg"}
+{"image": "../coco/val2017/000000493286.jpg"}
+{"image": "../coco/val2017/000000305695.jpg"}
+{"image": "../coco/val2017/000000044652.jpg"}

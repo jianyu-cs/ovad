@@ -1,0 +1,6 @@
+{"utterance": "There are persons with striped clothes or pink cakes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000450100.jpg", "../coco/val2017/000000343496.jpg"]}
+{"image": "../coco/val2017/000000450100.jpg"}
+{"image": "../coco/val2017/000000343496.jpg"}
+{"image": "../coco/val2017/000000031620.jpg"}
+{"image": "../coco/val2017/000000561465.jpg"}
+{"image": "../coco/val2017/000000380711.jpg"}

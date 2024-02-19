@@ -1,0 +1,6 @@
+{"utterance": "There are black keyboards or tan sandwichs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000426241.jpg", "../coco/val2017/000000009914.jpg"]}
+{"image": "../coco/val2017/000000426241.jpg"}
+{"image": "../coco/val2017/000000009914.jpg"}
+{"image": "../coco/val2017/000000197004.jpg"}
+{"image": "../coco/val2017/000000001503.jpg"}
+{"image": "../coco/val2017/000000226147.jpg"}

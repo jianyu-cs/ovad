@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored sheeps or white cars in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000338304.jpg", "../coco/val2017/000000142585.jpg"]}
+{"image": "../coco/val2017/000000338304.jpg"}
+{"image": "../coco/val2017/000000142585.jpg"}
+{"image": "../coco/val2017/000000176606.jpg"}
+{"image": "../coco/val2017/000000044699.jpg"}
+{"image": "../coco/val2017/000000107087.jpg"}

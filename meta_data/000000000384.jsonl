@@ -1,0 +1,6 @@
+{"utterance": "There are white horses or females in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000269932.jpg", "../coco/val2017/000000060052.jpg"]}
+{"image": "../coco/val2017/000000269932.jpg"}
+{"image": "../coco/val2017/000000060052.jpg"}
+{"image": "../coco/val2017/000000140270.jpg"}
+{"image": "../coco/val2017/000000088265.jpg"}
+{"image": "../coco/val2017/000000267191.jpg"}

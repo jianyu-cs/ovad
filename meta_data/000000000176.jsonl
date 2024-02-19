@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored oranges or standing microwaves in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000352618.jpg", "../coco/val2017/000000283717.jpg"]}
+{"image": "../coco/val2017/000000352618.jpg"}
+{"image": "../coco/val2017/000000283717.jpg"}
+{"image": "../coco/val2017/000000173008.jpg"}
+{"image": "../coco/val2017/000000069356.jpg"}
+{"image": "../coco/val2017/000000091615.jpg"}

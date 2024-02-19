@@ -1,0 +1,6 @@
+{"utterance": "There are white bowls or opaque refrigerators in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000491216.jpg", "../coco/val2017/000000325114.jpg"]}
+{"image": "../coco/val2017/000000491216.jpg"}
+{"image": "../coco/val2017/000000325114.jpg"}
+{"image": "../coco/val2017/000000073326.jpg"}
+{"image": "../coco/val2017/000000007574.jpg"}
+{"image": "../coco/val2017/000000184791.jpg"}

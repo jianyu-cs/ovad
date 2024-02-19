@@ -1,0 +1,6 @@
+{"utterance": "There are white knifes or white cakes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000209142.jpg", "../coco/val2017/000000013597.jpg"]}
+{"image": "../coco/val2017/000000209142.jpg"}
+{"image": "../coco/val2017/000000013597.jpg"}
+{"image": "../coco/val2017/000000002157.jpg"}
+{"image": "../coco/val2017/000000347335.jpg"}
+{"image": "../coco/val2017/000000561465.jpg"}

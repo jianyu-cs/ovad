@@ -1,0 +1,6 @@
+{"utterance": "There are standing tvs or lying suitcases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000316015.jpg", "../coco/val2017/000000359855.jpg"]}
+{"image": "../coco/val2017/000000316015.jpg"}
+{"image": "../coco/val2017/000000359855.jpg"}
+{"image": "../coco/val2017/000000500257.jpg"}
+{"image": "../coco/val2017/000000139684.jpg"}
+{"image": "../coco/val2017/000000153529.jpg"}

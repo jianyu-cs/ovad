@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned beds or standing bottles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000233238.jpg", "../coco/val2017/000000134112.jpg"]}
+{"image": "../coco/val2017/000000233238.jpg"}
+{"image": "../coco/val2017/000000134112.jpg"}
+{"image": "../coco/val2017/000000463842.jpg"}
+{"image": "../coco/val2017/000000040083.jpg"}
+{"image": "../coco/val2017/000000329080.jpg"}

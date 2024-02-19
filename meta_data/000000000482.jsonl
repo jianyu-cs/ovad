@@ -1,0 +1,6 @@
+{"utterance": "There are persons with striped clothes or black suitcases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000250619.jpg", "../coco/val2017/000000358525.jpg"]}
+{"image": "../coco/val2017/000000250619.jpg"}
+{"image": "../coco/val2017/000000358525.jpg"}
+{"image": "../coco/val2017/000000153529.jpg"}
+{"image": "../coco/val2017/000000476491.jpg"}
+{"image": "../coco/val2017/000000112626.jpg"}

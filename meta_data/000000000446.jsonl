@@ -1,0 +1,6 @@
+{"utterance": "There are black tvs or gray sinks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000189436.jpg", "../coco/val2017/000000284623.jpg"]}
+{"image": "../coco/val2017/000000189436.jpg"}
+{"image": "../coco/val2017/000000284623.jpg"}
+{"image": "../coco/val2017/000000221708.jpg"}
+{"image": "../coco/val2017/000000056288.jpg"}
+{"image": "../coco/val2017/000000192047.jpg"}

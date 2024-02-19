@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored broccolis or lying spoons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000104669.jpg", "../coco/val2017/000000116362.jpg"]}
+{"image": "../coco/val2017/000000104669.jpg"}
+{"image": "../coco/val2017/000000116362.jpg"}
+{"image": "../coco/val2017/000000003845.jpg"}
+{"image": "../coco/val2017/000000008277.jpg"}
+{"image": "../coco/val2017/000000243204.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are gray forks or red apples in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000104669.jpg", "../coco/val2017/000000189078.jpg"]}
+{"image": "../coco/val2017/000000104669.jpg"}
+{"image": "../coco/val2017/000000189078.jpg"}
+{"image": "../coco/val2017/000000110999.jpg"}
+{"image": "../coco/val2017/000000194724.jpg"}
+{"image": "../coco/val2017/000000110999.jpg"}

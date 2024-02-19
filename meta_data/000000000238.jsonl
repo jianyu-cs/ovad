@@ -1,0 +1,6 @@
+{"utterance": "There are orange oranges or unicolored broccolis in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000322959.jpg", "../coco/val2017/000000209142.jpg"]}
+{"image": "../coco/val2017/000000322959.jpg"}
+{"image": "../coco/val2017/000000209142.jpg"}
+{"image": "../coco/val2017/000000248980.jpg"}
+{"image": "../coco/val2017/000000145597.jpg"}
+{"image": "../coco/val2017/000000008277.jpg"}

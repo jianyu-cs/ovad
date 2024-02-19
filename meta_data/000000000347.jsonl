@@ -1,0 +1,6 @@
+{"utterance": "There are white mouses or lying keyboards in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000364297.jpg", "../coco/val2017/000000348481.jpg"]}
+{"image": "../coco/val2017/000000364297.jpg"}
+{"image": "../coco/val2017/000000348481.jpg"}
+{"image": "../coco/val2017/000000001503.jpg"}
+{"image": "../coco/val2017/000000325838.jpg"}
+{"image": "../coco/val2017/000000086582.jpg"}

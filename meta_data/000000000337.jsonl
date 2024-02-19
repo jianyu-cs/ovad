@@ -1,0 +1,6 @@
+{"utterance": "There are tan benchs or blue skateboards in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000068628.jpg", "../coco/val2017/000000254516.jpg"]}
+{"image": "../coco/val2017/000000068628.jpg"}
+{"image": "../coco/val2017/000000254516.jpg"}
+{"image": "../coco/val2017/000000434204.jpg"}
+{"image": "../coco/val2017/000000026690.jpg"}
+{"image": "../coco/val2017/000000434204.jpg"}

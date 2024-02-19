@@ -1,0 +1,6 @@
+{"utterance": "There are green kites or persons with plain clothes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000402720.jpg", "../coco/val2017/000000263679.jpg"]}
+{"image": "../coco/val2017/000000402720.jpg"}
+{"image": "../coco/val2017/000000263679.jpg"}
+{"image": "../coco/val2017/000000447314.jpg"}
+{"image": "../coco/val2017/000000481413.jpg"}
+{"image": "../coco/val2017/000000235778.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored cell phones or black laptops in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000131138.jpg", "../coco/val2017/000000302882.jpg"]}
+{"image": "../coco/val2017/000000131138.jpg"}
+{"image": "../coco/val2017/000000302882.jpg"}
+{"image": "../coco/val2017/000000046031.jpg"}
+{"image": "../coco/val2017/000000275749.jpg"}
+{"image": "../coco/val2017/000000180798.jpg"}

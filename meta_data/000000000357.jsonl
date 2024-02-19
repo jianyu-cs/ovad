@@ -1,0 +1,6 @@
+{"utterance": "There are standing persons or multicolored boats in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000421757.jpg", "../coco/val2017/000000183675.jpg"]}
+{"image": "../coco/val2017/000000421757.jpg"}
+{"image": "../coco/val2017/000000183675.jpg"}
+{"image": "../coco/val2017/000000458223.jpg"}
+{"image": "../coco/val2017/000000267940.jpg"}
+{"image": "../coco/val2017/000000122166.jpg"}

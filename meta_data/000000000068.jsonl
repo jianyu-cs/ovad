@@ -1,0 +1,6 @@
+{"utterance": "There are adult dogs or two-colored umbrellas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000289938.jpg", "../coco/val2017/000000139872.jpg"]}
+{"image": "../coco/val2017/000000289938.jpg"}
+{"image": "../coco/val2017/000000139872.jpg"}
+{"image": "../coco/val2017/000000143961.jpg"}
+{"image": "../coco/val2017/000000577932.jpg"}
+{"image": "../coco/val2017/000000139099.jpg"}

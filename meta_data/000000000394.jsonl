@@ -1,0 +1,6 @@
+{"utterance": "There are adult persons or two-colored benchs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000096825.jpg", "../coco/val2017/000000279145.jpg"]}
+{"image": "../coco/val2017/000000096825.jpg"}
+{"image": "../coco/val2017/000000279145.jpg"}
+{"image": "../coco/val2017/000000006471.jpg"}
+{"image": "../coco/val2017/000000066886.jpg"}
+{"image": "../coco/val2017/000000254516.jpg"}

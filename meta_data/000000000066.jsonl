@@ -1,0 +1,6 @@
+{"utterance": "There are standing handbags or unicolored frisbees in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000349480.jpg", "../coco/val2017/000000009378.jpg"]}
+{"image": "../coco/val2017/000000349480.jpg"}
+{"image": "../coco/val2017/000000009378.jpg"}
+{"image": "../coco/val2017/000000100238.jpg"}
+{"image": "../coco/val2017/000000553664.jpg"}
+{"image": "../coco/val2017/000000511384.jpg"}

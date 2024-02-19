@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored parking meters or gray cars in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000034071.jpg", "../coco/val2017/000000139099.jpg"]}
+{"image": "../coco/val2017/000000034071.jpg"}
+{"image": "../coco/val2017/000000139099.jpg"}
+{"image": "../coco/val2017/000000135410.jpg"}
+{"image": "../coco/val2017/000000067616.jpg"}
+{"image": "../coco/val2017/000000293071.jpg"}

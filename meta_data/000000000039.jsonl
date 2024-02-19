@@ -1,0 +1,6 @@
+{"utterance": "There are transparent cups or unicolored chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000336053.jpg", "../coco/val2017/000000283113.jpg"]}
+{"image": "../coco/val2017/000000336053.jpg"}
+{"image": "../coco/val2017/000000283113.jpg"}
+{"image": "../coco/val2017/000000290771.jpg"}
+{"image": "../coco/val2017/000000426795.jpg"}
+{"image": "../coco/val2017/000000183965.jpg"}

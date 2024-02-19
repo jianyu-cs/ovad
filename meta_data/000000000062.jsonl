@@ -1,0 +1,6 @@
+{"utterance": "There are red frisbees or tan dogs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000163562.jpg", "../coco/val2017/000000221693.jpg"]}
+{"image": "../coco/val2017/000000163562.jpg"}
+{"image": "../coco/val2017/000000221693.jpg"}
+{"image": "../coco/val2017/000000357459.jpg"}
+{"image": "../coco/val2017/000000130699.jpg"}
+{"image": "../coco/val2017/000000554002.jpg"}

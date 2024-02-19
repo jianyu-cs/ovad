@@ -1,0 +1,6 @@
+{"utterance": "There are persons with straight hair or plain patterned elephants in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000263860.jpg", "../coco/val2017/000000005193.jpg"]}
+{"image": "../coco/val2017/000000263860.jpg"}
+{"image": "../coco/val2017/000000005193.jpg"}
+{"image": "../coco/val2017/000000356125.jpg"}
+{"image": "../coco/val2017/000000080274.jpg"}
+{"image": "../coco/val2017/000000423104.jpg"}

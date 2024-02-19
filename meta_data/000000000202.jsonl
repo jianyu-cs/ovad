@@ -1,0 +1,6 @@
+{"utterance": "There are males or white suitcases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000359855.jpg", "../coco/val2017/000000311002.jpg"]}
+{"image": "../coco/val2017/000000359855.jpg"}
+{"image": "../coco/val2017/000000311002.jpg"}
+{"image": "../coco/val2017/000000179174.jpg"}
+{"image": "../coco/val2017/000000475387.jpg"}
+{"image": "../coco/val2017/000000256775.jpg"}

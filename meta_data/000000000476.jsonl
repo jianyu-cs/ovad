@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored cars or blue umbrellas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000235241.jpg", "../coco/val2017/000000033854.jpg"]}
+{"image": "../coco/val2017/000000235241.jpg"}
+{"image": "../coco/val2017/000000033854.jpg"}
+{"image": "../coco/val2017/000000132544.jpg"}
+{"image": "../coco/val2017/000000060052.jpg"}
+{"image": "../coco/val2017/000000474452.jpg"}

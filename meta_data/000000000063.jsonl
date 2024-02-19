@@ -1,0 +1,6 @@
+{"utterance": "There are multicolored ties or standing bottles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000020333.jpg", "../coco/val2017/000000026564.jpg"]}
+{"image": "../coco/val2017/000000020333.jpg"}
+{"image": "../coco/val2017/000000026564.jpg"}
+{"image": "../coco/val2017/000000172877.jpg"}
+{"image": "../coco/val2017/000000496854.jpg"}
+{"image": "../coco/val2017/000000145781.jpg"}

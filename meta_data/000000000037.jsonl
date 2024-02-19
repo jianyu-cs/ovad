@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored donuts or plain patterned cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000238866.jpg", "../coco/val2017/000000070048.jpg"]}
+{"image": "../coco/val2017/000000238866.jpg"}
+{"image": "../coco/val2017/000000070048.jpg"}
+{"image": "../coco/val2017/000000025986.jpg"}
+{"image": "../coco/val2017/000000002587.jpg"}
+{"image": "../coco/val2017/000000395343.jpg"}

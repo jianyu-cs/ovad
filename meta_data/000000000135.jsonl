@@ -1,0 +1,6 @@
+{"utterance": "There are white airplanes or standing trucks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000144114.jpg", "../coco/val2017/000000305695.jpg"]}
+{"image": "../coco/val2017/000000144114.jpg"}
+{"image": "../coco/val2017/000000305695.jpg"}
+{"image": "../coco/val2017/000000109900.jpg"}
+{"image": "../coco/val2017/000000137950.jpg"}
+{"image": "../coco/val2017/000000007386.jpg"}

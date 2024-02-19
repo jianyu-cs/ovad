@@ -1,0 +1,6 @@
+{"utterance": "There are red teddy bears or opaque vases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000395343.jpg", "../coco/val2017/000000175443.jpg"]}
+{"image": "../coco/val2017/000000395343.jpg"}
+{"image": "../coco/val2017/000000175443.jpg"}
+{"image": "../coco/val2017/000000020553.jpg"}
+{"image": "../coco/val2017/000000345356.jpg"}
+{"image": "../coco/val2017/000000070229.jpg"}

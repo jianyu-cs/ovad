@@ -1,0 +1,6 @@
+{"utterance": "There are lying airplanes or standing persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000131386.jpg", "../coco/val2017/000000195842.jpg"]}
+{"image": "../coco/val2017/000000131386.jpg"}
+{"image": "../coco/val2017/000000195842.jpg"}
+{"image": "../coco/val2017/000000504000.jpg"}
+{"image": "../coco/val2017/000000336309.jpg"}
+{"image": "../coco/val2017/000000188592.jpg"}

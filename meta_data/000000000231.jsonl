@@ -1,0 +1,6 @@
+{"utterance": "There are green potted plants or unicolored umbrellas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000037740.jpg", "../coco/val2017/000000132544.jpg"]}
+{"image": "../coco/val2017/000000037740.jpg"}
+{"image": "../coco/val2017/000000132544.jpg"}
+{"image": "../coco/val2017/000000338905.jpg"}
+{"image": "../coco/val2017/000000375078.jpg"}
+{"image": "../coco/val2017/000000319369.jpg"}

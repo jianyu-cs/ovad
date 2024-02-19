@@ -1,0 +1,6 @@
+{"utterance": "There are standing persons or adult dogs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000139872.jpg", "../coco/val2017/000000229358.jpg"]}
+{"image": "../coco/val2017/000000139872.jpg"}
+{"image": "../coco/val2017/000000229358.jpg"}
+{"image": "../coco/val2017/000000149568.jpg"}
+{"image": "../coco/val2017/000000139099.jpg"}
+{"image": "../coco/val2017/000000132796.jpg"}

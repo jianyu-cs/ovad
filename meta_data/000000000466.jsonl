@@ -1,0 +1,6 @@
+{"utterance": "There are reflective refrigerators or gray microwaves in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000283717.jpg", "../coco/val2017/000000156278.jpg"]}
+{"image": "../coco/val2017/000000283717.jpg"}
+{"image": "../coco/val2017/000000156278.jpg"}
+{"image": "../coco/val2017/000000068833.jpg"}
+{"image": "../coco/val2017/000000109976.jpg"}
+{"image": "../coco/val2017/000000074209.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are persons with plain clothes or transparent wine glasss in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000007818.jpg", "../coco/val2017/000000384670.jpg"]}
+{"image": "../coco/val2017/000000007818.jpg"}
+{"image": "../coco/val2017/000000384670.jpg"}
+{"image": "../coco/val2017/000000268378.jpg"}
+{"image": "../coco/val2017/000000213035.jpg"}
+{"image": "../coco/val2017/000000009378.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored couchs or brown bottles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000300039.jpg", "../coco/val2017/000000515077.jpg"]}
+{"image": "../coco/val2017/000000300039.jpg"}
+{"image": "../coco/val2017/000000515077.jpg"}
+{"image": "../coco/val2017/000000010707.jpg"}
+{"image": "../coco/val2017/000000157418.jpg"}
+{"image": "../coco/val2017/000000416534.jpg"}

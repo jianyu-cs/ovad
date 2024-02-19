@@ -1,0 +1,6 @@
+{"utterance": "There are transparent bottles or opaque trucks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000520077.jpg", "../coco/val2017/000000579158.jpg"]}
+{"image": "../coco/val2017/000000520077.jpg"}
+{"image": "../coco/val2017/000000579158.jpg"}
+{"image": "../coco/val2017/000000448256.jpg"}
+{"image": "../coco/val2017/000000083531.jpg"}
+{"image": "../coco/val2017/000000067616.jpg"}

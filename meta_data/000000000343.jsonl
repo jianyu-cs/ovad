@@ -1,0 +1,6 @@
+{"utterance": "There are standing spoons or unicolored refrigerators in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000022705.jpg", "../coco/val2017/000000117425.jpg"]}
+{"image": "../coco/val2017/000000022705.jpg"}
+{"image": "../coco/val2017/000000117425.jpg"}
+{"image": "../coco/val2017/000000437898.jpg"}
+{"image": "../coco/val2017/000000186980.jpg"}
+{"image": "../coco/val2017/000000127494.jpg"}

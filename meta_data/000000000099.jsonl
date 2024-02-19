@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned bowls or two-colored bananas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000091654.jpg", "../coco/val2017/000000050149.jpg"]}
+{"image": "../coco/val2017/000000091654.jpg"}
+{"image": "../coco/val2017/000000050149.jpg"}
+{"image": "../coco/val2017/000000236721.jpg"}
+{"image": "../coco/val2017/000000565776.jpg"}
+{"image": "../coco/val2017/000000125936.jpg"}

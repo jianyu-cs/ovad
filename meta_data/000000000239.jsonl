@@ -1,0 +1,6 @@
+{"utterance": "There are black clocks or adult elephants in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000183437.jpg", "../coco/val2017/000000295797.jpg"]}
+{"image": "../coco/val2017/000000183437.jpg"}
+{"image": "../coco/val2017/000000295797.jpg"}
+{"image": "../coco/val2017/000000565989.jpg"}
+{"image": "../coco/val2017/000000267169.jpg"}
+{"image": "../coco/val2017/000000120584.jpg"}

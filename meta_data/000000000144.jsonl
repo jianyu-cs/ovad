@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned elephants or adult persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000167128.jpg", "../coco/val2017/000000512657.jpg"]}
+{"image": "../coco/val2017/000000167128.jpg"}
+{"image": "../coco/val2017/000000512657.jpg"}
+{"image": "../coco/val2017/000000301061.jpg"}
+{"image": "../coco/val2017/000000088250.jpg"}
+{"image": "../coco/val2017/000000020333.jpg"}

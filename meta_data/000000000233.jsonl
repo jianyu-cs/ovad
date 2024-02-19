@@ -1,0 +1,6 @@
+{"utterance": "There are opaque dining tables or unicolored sinks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000292060.jpg", "../coco/val2017/000000066817.jpg"]}
+{"image": "../coco/val2017/000000292060.jpg"}
+{"image": "../coco/val2017/000000066817.jpg"}
+{"image": "../coco/val2017/000000221708.jpg"}
+{"image": "../coco/val2017/000000009772.jpg"}
+{"image": "../coco/val2017/000000060449.jpg"}

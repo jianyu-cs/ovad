@@ -1,0 +1,6 @@
+{"utterance": "There are gray scissorss or plain patterned laptops in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000154213.jpg", "../coco/val2017/000000080949.jpg"]}
+{"image": "../coco/val2017/000000154213.jpg"}
+{"image": "../coco/val2017/000000080949.jpg"}
+{"image": "../coco/val2017/000000324715.jpg"}
+{"image": "../coco/val2017/000000255483.jpg"}
+{"image": "../coco/val2017/000000425361.jpg"}

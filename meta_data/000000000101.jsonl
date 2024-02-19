@@ -1,0 +1,6 @@
+{"utterance": "There are opaque dining tables or orange fire hydrants in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000028993.jpg", "../coco/val2017/000000236914.jpg"]}
+{"image": "../coco/val2017/000000028993.jpg"}
+{"image": "../coco/val2017/000000236914.jpg"}
+{"image": "../coco/val2017/000000138550.jpg"}
+{"image": "../coco/val2017/000000343315.jpg"}
+{"image": "../coco/val2017/000000473821.jpg"}

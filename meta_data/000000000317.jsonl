@@ -1,0 +1,6 @@
+{"utterance": "There are happy persons or plain patterned bicycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000036844.jpg", "../coco/val2017/000000556158.jpg"]}
+{"image": "../coco/val2017/000000036844.jpg"}
+{"image": "../coco/val2017/000000556158.jpg"}
+{"image": "../coco/val2017/000000447917.jpg"}
+{"image": "../coco/val2017/000000426166.jpg"}
+{"image": "../coco/val2017/000000494913.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are black hair driers or unicolored tvs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000350002.jpg", "../coco/val2017/000000527616.jpg"]}
+{"image": "../coco/val2017/000000350002.jpg"}
+{"image": "../coco/val2017/000000527616.jpg"}
+{"image": "../coco/val2017/000000239041.jpg"}
+{"image": "../coco/val2017/000000178028.jpg"}
+{"image": "../coco/val2017/000000463618.jpg"}

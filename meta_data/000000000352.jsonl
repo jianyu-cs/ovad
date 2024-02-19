@@ -1,0 +1,6 @@
+{"utterance": "There are gray scissorss or standing bicycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000154213.jpg", "../coco/val2017/000000144333.jpg"]}
+{"image": "../coco/val2017/000000154213.jpg"}
+{"image": "../coco/val2017/000000144333.jpg"}
+{"image": "../coco/val2017/000000005001.jpg"}
+{"image": "../coco/val2017/000000106389.jpg"}
+{"image": "../coco/val2017/000000295809.jpg"}

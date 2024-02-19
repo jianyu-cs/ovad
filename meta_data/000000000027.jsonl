@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned dogs or plain patterned beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000039769.jpg", "../coco/val2017/000000072813.jpg"]}
+{"image": "../coco/val2017/000000039769.jpg"}
+{"image": "../coco/val2017/000000072813.jpg"}
+{"image": "../coco/val2017/000000134112.jpg"}
+{"image": "../coco/val2017/000000422670.jpg"}
+{"image": "../coco/val2017/000000446522.jpg"}

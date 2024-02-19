@@ -1,0 +1,6 @@
+{"utterance": "There are standing persons or plain patterned toilets in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000006818.jpg", "../coco/val2017/000000276434.jpg"]}
+{"image": "../coco/val2017/000000006818.jpg"}
+{"image": "../coco/val2017/000000276434.jpg"}
+{"image": "../coco/val2017/000000365642.jpg"}
+{"image": "../coco/val2017/000000551304.jpg"}
+{"image": "../coco/val2017/000000071938.jpg"}

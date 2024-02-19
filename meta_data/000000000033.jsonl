@@ -1,0 +1,6 @@
+{"utterance": "There are black cows or red traffic lights in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000023937.jpg", "../coco/val2017/000000361103.jpg"]}
+{"image": "../coco/val2017/000000023937.jpg"}
+{"image": "../coco/val2017/000000361103.jpg"}
+{"image": "../coco/val2017/000000555050.jpg"}
+{"image": "../coco/val2017/000000329447.jpg"}
+{"image": "../coco/val2017/000000076417.jpg"}

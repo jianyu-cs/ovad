@@ -1,0 +1,6 @@
+{"utterance": "There are transparent cups or two-colored books in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000241319.jpg", "../coco/val2017/000000308430.jpg"]}
+{"image": "../coco/val2017/000000241319.jpg"}
+{"image": "../coco/val2017/000000308430.jpg"}
+{"image": "../coco/val2017/000000421923.jpg"}
+{"image": "../coco/val2017/000000171740.jpg"}
+{"image": "../coco/val2017/000000058111.jpg"}

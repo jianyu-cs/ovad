@@ -1,0 +1,6 @@
+{"utterance": "There are standing cups or standing chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000199771.jpg", "../coco/val2017/000000293858.jpg"]}
+{"image": "../coco/val2017/000000199771.jpg"}
+{"image": "../coco/val2017/000000293858.jpg"}
+{"image": "../coco/val2017/000000035682.jpg"}
+{"image": "../coco/val2017/000000074646.jpg"}
+{"image": "../coco/val2017/000000060449.jpg"}

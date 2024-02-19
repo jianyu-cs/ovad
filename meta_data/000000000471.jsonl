@@ -1,0 +1,6 @@
+{"utterance": "There are tan donuts or yellow bananas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000191761.jpg", "../coco/val2017/000000310200.jpg"]}
+{"image": "../coco/val2017/000000191761.jpg"}
+{"image": "../coco/val2017/000000310200.jpg"}
+{"image": "../coco/val2017/000000002587.jpg"}
+{"image": "../coco/val2017/000000078959.jpg"}
+{"image": "../coco/val2017/000000345469.jpg"}

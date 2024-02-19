@@ -1,0 +1,6 @@
+{"utterance": "There are yellow potted plants or red pizzas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000267300.jpg", "../coco/val2017/000000429623.jpg"]}
+{"image": "../coco/val2017/000000267300.jpg"}
+{"image": "../coco/val2017/000000429623.jpg"}
+{"image": "../coco/val2017/000000248400.jpg"}
+{"image": "../coco/val2017/000000137246.jpg"}
+{"image": "../coco/val2017/000000092660.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored cell phones or happy persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000180798.jpg", "../coco/val2017/000000356505.jpg"]}
+{"image": "../coco/val2017/000000180798.jpg"}
+{"image": "../coco/val2017/000000356505.jpg"}
+{"image": "../coco/val2017/000000346968.jpg"}
+{"image": "../coco/val2017/000000046031.jpg"}
+{"image": "../coco/val2017/000000197388.jpg"}

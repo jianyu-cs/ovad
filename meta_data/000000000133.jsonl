@@ -1,0 +1,6 @@
+{"utterance": "There are black dogs or white toothbrushs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000311394.jpg", "../coco/val2017/000000357459.jpg"]}
+{"image": "../coco/val2017/000000311394.jpg"}
+{"image": "../coco/val2017/000000357459.jpg"}
+{"image": "../coco/val2017/000000309484.jpg"}
+{"image": "../coco/val2017/000000578922.jpg"}
+{"image": "../coco/val2017/000000575357.jpg"}

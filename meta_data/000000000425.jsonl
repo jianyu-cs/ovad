@@ -1,0 +1,6 @@
+{"utterance": "There are transparent cups or blue toothbrushs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000193348.jpg", "../coco/val2017/000000347335.jpg"]}
+{"image": "../coco/val2017/000000193348.jpg"}
+{"image": "../coco/val2017/000000347335.jpg"}
+{"image": "../coco/val2017/000000241319.jpg"}
+{"image": "../coco/val2017/000000160666.jpg"}
+{"image": "../coco/val2017/000000218439.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned laptops or adult persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000313454.jpg", "../coco/val2017/000000147415.jpg"]}
+{"image": "../coco/val2017/000000313454.jpg"}
+{"image": "../coco/val2017/000000147415.jpg"}
+{"image": "../coco/val2017/000000232684.jpg"}
+{"image": "../coco/val2017/000000006954.jpg"}
+{"image": "../coco/val2017/000000425361.jpg"}

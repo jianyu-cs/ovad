@@ -1,0 +1,6 @@
+{"utterance": "There are brown elephants or white bottles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000356125.jpg", "../coco/val2017/000000199771.jpg"]}
+{"image": "../coco/val2017/000000356125.jpg"}
+{"image": "../coco/val2017/000000199771.jpg"}
+{"image": "../coco/val2017/000000267169.jpg"}
+{"image": "../coco/val2017/000000053624.jpg"}
+{"image": "../coco/val2017/000000066841.jpg"}

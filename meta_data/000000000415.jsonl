@@ -1,0 +1,6 @@
+{"utterance": "There are tan sandwichs or standing bowls in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000015079.jpg", "../coco/val2017/000000308430.jpg"]}
+{"image": "../coco/val2017/000000015079.jpg"}
+{"image": "../coco/val2017/000000308430.jpg"}
+{"image": "../coco/val2017/000000183965.jpg"}
+{"image": "../coco/val2017/000000226147.jpg"}
+{"image": "../coco/val2017/000000405691.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned keyboards or black tvs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000520077.jpg", "../coco/val2017/000000053909.jpg"]}
+{"image": "../coco/val2017/000000520077.jpg"}
+{"image": "../coco/val2017/000000053909.jpg"}
+{"image": "../coco/val2017/000000346638.jpg"}
+{"image": "../coco/val2017/000000515077.jpg"}
+{"image": "../coco/val2017/000000009400.jpg"}

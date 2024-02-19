@@ -1,0 +1,6 @@
+{"utterance": "There are black cakes or two-colored laptops in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000302030.jpg", "../coco/val2017/000000095707.jpg"]}
+{"image": "../coco/val2017/000000302030.jpg"}
+{"image": "../coco/val2017/000000095707.jpg"}
+{"image": "../coco/val2017/000000059598.jpg"}
+{"image": "../coco/val2017/000000026564.jpg"}
+{"image": "../coco/val2017/000000482275.jpg"}

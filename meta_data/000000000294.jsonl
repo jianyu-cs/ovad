@@ -1,0 +1,6 @@
+{"utterance": "There are persons with plain clothes or unicolored horses in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000380203.jpg", "../coco/val2017/000000500478.jpg"]}
+{"image": "../coco/val2017/000000380203.jpg"}
+{"image": "../coco/val2017/000000500478.jpg"}
+{"image": "../coco/val2017/000000121242.jpg"}
+{"image": "../coco/val2017/000000015956.jpg"}
+{"image": "../coco/val2017/000000017905.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are adult cats or two-colored chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000327769.jpg", "../coco/val2017/000000322352.jpg"]}
+{"image": "../coco/val2017/000000327769.jpg"}
+{"image": "../coco/val2017/000000322352.jpg"}
+{"image": "../coco/val2017/000000107087.jpg"}
+{"image": "../coco/val2017/000000209747.jpg"}
+{"image": "../coco/val2017/000000297562.jpg"}

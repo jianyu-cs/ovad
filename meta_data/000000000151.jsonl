@@ -1,0 +1,6 @@
+{"utterance": "There are black cats or pink toothbrushs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000078426.jpg", "../coco/val2017/000000578922.jpg"]}
+{"image": "../coco/val2017/000000078426.jpg"}
+{"image": "../coco/val2017/000000578922.jpg"}
+{"image": "../coco/val2017/000000284623.jpg"}
+{"image": "../coco/val2017/000000084650.jpg"}
+{"image": "../coco/val2017/000000193348.jpg"}

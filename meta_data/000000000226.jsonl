@@ -1,0 +1,6 @@
+{"utterance": "There are multicolored buss or standing bicycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000509008.jpg", "../coco/val2017/000000226903.jpg"]}
+{"image": "../coco/val2017/000000509008.jpg"}
+{"image": "../coco/val2017/000000226903.jpg"}
+{"image": "../coco/val2017/000000210394.jpg"}
+{"image": "../coco/val2017/000000052007.jpg"}
+{"image": "../coco/val2017/000000356612.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are white donuts or black chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000109798.jpg", "../coco/val2017/000000290771.jpg"]}
+{"image": "../coco/val2017/000000109798.jpg"}
+{"image": "../coco/val2017/000000290771.jpg"}
+{"image": "../coco/val2017/000000363666.jpg"}
+{"image": "../coco/val2017/000000310200.jpg"}
+{"image": "../coco/val2017/000000297562.jpg"}

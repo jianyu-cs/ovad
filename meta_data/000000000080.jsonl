@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored dogs or neutral-minded persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000138492.jpg", "../coco/val2017/000000350148.jpg"]}
+{"image": "../coco/val2017/000000138492.jpg"}
+{"image": "../coco/val2017/000000350148.jpg"}
+{"image": "../coco/val2017/000000185250.jpg"}
+{"image": "../coco/val2017/000000117525.jpg"}
+{"image": "../coco/val2017/000000033221.jpg"}

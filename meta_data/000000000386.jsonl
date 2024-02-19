@@ -1,0 +1,6 @@
+{"utterance": "There are brown sandwichs or unicolored dining tables in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000243204.jpg", "../coco/val2017/000000493799.jpg"]}
+{"image": "../coco/val2017/000000243204.jpg"}
+{"image": "../coco/val2017/000000493799.jpg"}
+{"image": "../coco/val2017/000000369370.jpg"}
+{"image": "../coco/val2017/000000303893.jpg"}
+{"image": "../coco/val2017/000000091406.jpg"}

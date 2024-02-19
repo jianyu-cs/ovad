@@ -1,0 +1,6 @@
+{"utterance": "There are opaque knifes or two-colored cakes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000147205.jpg", "../coco/val2017/000000110999.jpg"]}
+{"image": "../coco/val2017/000000147205.jpg"}
+{"image": "../coco/val2017/000000110999.jpg"}
+{"image": "../coco/val2017/000000276434.jpg"}
+{"image": "../coco/val2017/000000098633.jpg"}
+{"image": "../coco/val2017/000000015079.jpg"}

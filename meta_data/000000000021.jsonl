@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored elephants or standing bottles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000356125.jpg", "../coco/val2017/000000080949.jpg"]}
+{"image": "../coco/val2017/000000356125.jpg"}
+{"image": "../coco/val2017/000000080949.jpg"}
+{"image": "../coco/val2017/000000267169.jpg"}
+{"image": "../coco/val2017/000000021903.jpg"}
+{"image": "../coco/val2017/000000145781.jpg"}

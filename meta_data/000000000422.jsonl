@@ -1,0 +1,6 @@
+{"utterance": "There are females or gray airplanes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000135673.jpg", "../coco/val2017/000000271402.jpg"]}
+{"image": "../coco/val2017/000000135673.jpg"}
+{"image": "../coco/val2017/000000271402.jpg"}
+{"image": "../coco/val2017/000000071711.jpg"}
+{"image": "../coco/val2017/000000281693.jpg"}
+{"image": "../coco/val2017/000000529939.jpg"}

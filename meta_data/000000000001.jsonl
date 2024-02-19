@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned buss or black parking meters in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000051961.jpg", "../coco/val2017/000000315450.jpg"]}
+{"image": "../coco/val2017/000000051961.jpg"}
+{"image": "../coco/val2017/000000315450.jpg"}
+{"image": "../coco/val2017/000000133819.jpg"}
+{"image": "../coco/val2017/000000135410.jpg"}
+{"image": "../coco/val2017/000000122606.jpg"}

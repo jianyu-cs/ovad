@@ -1,0 +1,6 @@
+{"utterance": "There are multicolored boats or black clocks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000133233.jpg", "../coco/val2017/000000140929.jpg"]}
+{"image": "../coco/val2017/000000133233.jpg"}
+{"image": "../coco/val2017/000000140929.jpg"}
+{"image": "../coco/val2017/000000036678.jpg"}
+{"image": "../coco/val2017/000000531495.jpg"}
+{"image": "../coco/val2017/000000120584.jpg"}

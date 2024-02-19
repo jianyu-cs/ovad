@@ -1,0 +1,6 @@
+{"utterance": "There are white mouses or standing chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000156924.jpg", "../coco/val2017/000000348481.jpg"]}
+{"image": "../coco/val2017/000000156924.jpg"}
+{"image": "../coco/val2017/000000348481.jpg"}
+{"image": "../coco/val2017/000000372466.jpg"}
+{"image": "../coco/val2017/000000116479.jpg"}
+{"image": "../coco/val2017/000000068765.jpg"}

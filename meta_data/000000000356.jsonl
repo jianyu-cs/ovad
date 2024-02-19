@@ -1,0 +1,6 @@
+{"utterance": "There are black tvs or tan cakes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000131138.jpg", "../coco/val2017/000000147205.jpg"]}
+{"image": "../coco/val2017/000000131138.jpg"}
+{"image": "../coco/val2017/000000147205.jpg"}
+{"image": "../coco/val2017/000000331817.jpg"}
+{"image": "../coco/val2017/000000148620.jpg"}
+{"image": "../coco/val2017/000000048396.jpg"}

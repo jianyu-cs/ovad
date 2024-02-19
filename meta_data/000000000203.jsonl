@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored books or unicolored vases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000395343.jpg", "../coco/val2017/000000326970.jpg"]}
+{"image": "../coco/val2017/000000395343.jpg"}
+{"image": "../coco/val2017/000000326970.jpg"}
+{"image": "../coco/val2017/000000440475.jpg"}
+{"image": "../coco/val2017/000000348488.jpg"}
+{"image": "../coco/val2017/000000467176.jpg"}

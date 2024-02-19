@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned cell phones or plain patterned handbags in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000100238.jpg", "../coco/val2017/000000300039.jpg"]}
+{"image": "../coco/val2017/000000100238.jpg"}
+{"image": "../coco/val2017/000000300039.jpg"}
+{"image": "../coco/val2017/000000151000.jpg"}
+{"image": "../coco/val2017/000000086956.jpg"}
+{"image": "../coco/val2017/000000001296.jpg"}

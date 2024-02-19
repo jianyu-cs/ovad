@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored couchs or red pizzas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000527616.jpg", "../coco/val2017/000000429623.jpg"]}
+{"image": "../coco/val2017/000000527616.jpg"}
+{"image": "../coco/val2017/000000429623.jpg"}
+{"image": "../coco/val2017/000000018150.jpg"}
+{"image": "../coco/val2017/000000399655.jpg"}
+{"image": "../coco/val2017/000000513041.jpg"}

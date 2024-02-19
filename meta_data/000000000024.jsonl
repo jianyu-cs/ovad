@@ -1,0 +1,6 @@
+{"utterance": "There are lying umbrellas or lying benchs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000089697.jpg", "../coco/val2017/000000401446.jpg"]}
+{"image": "../coco/val2017/000000089697.jpg"}
+{"image": "../coco/val2017/000000401446.jpg"}
+{"image": "../coco/val2017/000000322610.jpg"}
+{"image": "../coco/val2017/000000121506.jpg"}
+{"image": "../coco/val2017/000000127517.jpg"}

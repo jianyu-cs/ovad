@@ -1,0 +1,6 @@
+{"utterance": "There are black suitcases or white tennis rackets in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000526728.jpg", "../coco/val2017/000000126137.jpg"]}
+{"image": "../coco/val2017/000000526728.jpg"}
+{"image": "../coco/val2017/000000126137.jpg"}
+{"image": "../coco/val2017/000000039405.jpg"}
+{"image": "../coco/val2017/000000286458.jpg"}
+{"image": "../coco/val2017/000000248616.jpg"}

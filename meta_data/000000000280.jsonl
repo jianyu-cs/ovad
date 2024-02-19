@@ -1,0 +1,6 @@
+{"utterance": "There are tan chairs or lying knifes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000002157.jpg", "../coco/val2017/000000366141.jpg"]}
+{"image": "../coco/val2017/000000002157.jpg"}
+{"image": "../coco/val2017/000000366141.jpg"}
+{"image": "../coco/val2017/000000226147.jpg"}
+{"image": "../coco/val2017/000000078266.jpg"}
+{"image": "../coco/val2017/000000167572.jpg"}

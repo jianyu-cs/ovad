@@ -1,0 +1,6 @@
+{"utterance": "There are standing tvs or brown chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000293858.jpg", "../coco/val2017/000000333772.jpg"]}
+{"image": "../coco/val2017/000000293858.jpg"}
+{"image": "../coco/val2017/000000333772.jpg"}
+{"image": "../coco/val2017/000000416534.jpg"}
+{"image": "../coco/val2017/000000014439.jpg"}
+{"image": "../coco/val2017/000000039477.jpg"}

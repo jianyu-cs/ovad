@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored airplanes or white parking meters in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000162366.jpg", "../coco/val2017/000000137950.jpg"]}
+{"image": "../coco/val2017/000000162366.jpg"}
+{"image": "../coco/val2017/000000137950.jpg"}
+{"image": "../coco/val2017/000000033114.jpg"}
+{"image": "../coco/val2017/000000067616.jpg"}
+{"image": "../coco/val2017/000000109900.jpg"}

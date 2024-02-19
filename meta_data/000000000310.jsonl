@@ -1,0 +1,6 @@
+{"utterance": "There are black cats or standing spoons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000108244.jpg", "../coco/val2017/000000117425.jpg"]}
+{"image": "../coco/val2017/000000108244.jpg"}
+{"image": "../coco/val2017/000000117425.jpg"}
+{"image": "../coco/val2017/000000119233.jpg"}
+{"image": "../coco/val2017/000000166277.jpg"}
+{"image": "../coco/val2017/000000066817.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are black remotes or unicolored books in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000430286.jpg", "../coco/val2017/000000326970.jpg"]}
+{"image": "../coco/val2017/000000430286.jpg"}
+{"image": "../coco/val2017/000000326970.jpg"}
+{"image": "../coco/val2017/000000231831.jpg"}
+{"image": "../coco/val2017/000000261706.jpg"}
+{"image": "../coco/val2017/000000176446.jpg"}

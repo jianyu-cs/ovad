@@ -1,0 +1,6 @@
+{"utterance": "There are tan pizzas or two-colored bottles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000018575.jpg", "../coco/val2017/000000400794.jpg"]}
+{"image": "../coco/val2017/000000018575.jpg"}
+{"image": "../coco/val2017/000000400794.jpg"}
+{"image": "../coco/val2017/000000194724.jpg"}
+{"image": "../coco/val2017/000000319100.jpg"}
+{"image": "../coco/val2017/000000322163.jpg"}

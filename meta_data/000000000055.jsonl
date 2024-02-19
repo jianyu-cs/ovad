@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned backpacks or gray skiss in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000131556.jpg", "../coco/val2017/000000153529.jpg"]}
+{"image": "../coco/val2017/000000131556.jpg"}
+{"image": "../coco/val2017/000000153529.jpg"}
+{"image": "../coco/val2017/000000451144.jpg"}
+{"image": "../coco/val2017/000000030504.jpg"}
+{"image": "../coco/val2017/000000309964.jpg"}

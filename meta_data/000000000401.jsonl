@@ -1,0 +1,6 @@
+{"utterance": "There are persons with straight hair or red apples in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000203095.jpg", "../coco/val2017/000000297562.jpg"]}
+{"image": "../coco/val2017/000000203095.jpg"}
+{"image": "../coco/val2017/000000297562.jpg"}
+{"image": "../coco/val2017/000000272566.jpg"}
+{"image": "../coco/val2017/000000461009.jpg"}
+{"image": "../coco/val2017/000000050638.jpg"}

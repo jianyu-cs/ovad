@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored broccolis or transparent cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000105014.jpg", "../coco/val2017/000000361238.jpg"]}
+{"image": "../coco/val2017/000000105014.jpg"}
+{"image": "../coco/val2017/000000361238.jpg"}
+{"image": "../coco/val2017/000000541634.jpg"}
+{"image": "../coco/val2017/000000008277.jpg"}
+{"image": "../coco/val2017/000000183965.jpg"}

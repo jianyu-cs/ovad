@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored fire hydrants or standing bicycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000079034.jpg", "../coco/val2017/000000038829.jpg"]}
+{"image": "../coco/val2017/000000079034.jpg"}
+{"image": "../coco/val2017/000000038829.jpg"}
+{"image": "../coco/val2017/000000152771.jpg"}
+{"image": "../coco/val2017/000000026926.jpg"}
+{"image": "../coco/val2017/000000295809.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are standing bottles or lettered surfboards in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000380711.jpg", "../coco/val2017/000000284623.jpg"]}
+{"image": "../coco/val2017/000000380711.jpg"}
+{"image": "../coco/val2017/000000284623.jpg"}
+{"image": "../coco/val2017/000000005193.jpg"}
+{"image": "../coco/val2017/000000021879.jpg"}
+{"image": "../coco/val2017/000000145781.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are yellow sports balls or black tennis rackets in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000394559.jpg", "../coco/val2017/000000042296.jpg"]}
+{"image": "../coco/val2017/000000394559.jpg"}
+{"image": "../coco/val2017/000000042296.jpg"}
+{"image": "../coco/val2017/000000384670.jpg"}
+{"image": "../coco/val2017/000000078915.jpg"}
+{"image": "../coco/val2017/000000022935.jpg"}

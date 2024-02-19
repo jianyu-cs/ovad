@@ -1,0 +1,6 @@
+{"utterance": "There are orange pizzas or transparent cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000289415.jpg", "../coco/val2017/000000293858.jpg"]}
+{"image": "../coco/val2017/000000289415.jpg"}
+{"image": "../coco/val2017/000000293858.jpg"}
+{"image": "../coco/val2017/000000323151.jpg"}
+{"image": "../coco/val2017/000000382125.jpg"}
+{"image": "../coco/val2017/000000066706.jpg"}

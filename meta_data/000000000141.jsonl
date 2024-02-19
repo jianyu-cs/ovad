@@ -1,0 +1,6 @@
+{"utterance": "There are standing tennis rackets or two-colored chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000112298.jpg", "../coco/val2017/000000092091.jpg"]}
+{"image": "../coco/val2017/000000112298.jpg"}
+{"image": "../coco/val2017/000000092091.jpg"}
+{"image": "../coco/val2017/000000133244.jpg"}
+{"image": "../coco/val2017/000000326248.jpg"}
+{"image": "../coco/val2017/000000040083.jpg"}

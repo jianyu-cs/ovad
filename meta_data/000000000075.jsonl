@@ -1,0 +1,6 @@
+{"utterance": "There are standing cups or multicolored sandwichs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000218249.jpg", "../coco/val2017/000000421923.jpg"]}
+{"image": "../coco/val2017/000000218249.jpg"}
+{"image": "../coco/val2017/000000421923.jpg"}
+{"image": "../coco/val2017/000000038678.jpg"}
+{"image": "../coco/val2017/000000341828.jpg"}
+{"image": "../coco/val2017/000000192904.jpg"}

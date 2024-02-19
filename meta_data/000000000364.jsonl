@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored spoons or gray sinks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000074209.jpg", "../coco/val2017/000000562059.jpg"]}
+{"image": "../coco/val2017/000000074209.jpg"}
+{"image": "../coco/val2017/000000562059.jpg"}
+{"image": "../coco/val2017/000000437898.jpg"}
+{"image": "../coco/val2017/000000006213.jpg"}
+{"image": "../coco/val2017/000000088269.jpg"}

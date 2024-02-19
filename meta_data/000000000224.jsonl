@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored laptops or white remotes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000402765.jpg", "../coco/val2017/000000324715.jpg"]}
+{"image": "../coco/val2017/000000402765.jpg"}
+{"image": "../coco/val2017/000000324715.jpg"}
+{"image": "../coco/val2017/000000110449.jpg"}
+{"image": "../coco/val2017/000000246968.jpg"}
+{"image": "../coco/val2017/000000176446.jpg"}

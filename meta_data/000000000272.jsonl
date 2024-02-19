@@ -1,0 +1,6 @@
+{"utterance": "There are brown suitcases or unicolored handbags in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000179174.jpg", "../coco/val2017/000000476514.jpg"]}
+{"image": "../coco/val2017/000000179174.jpg"}
+{"image": "../coco/val2017/000000476514.jpg"}
+{"image": "../coco/val2017/000000034139.jpg"}
+{"image": "../coco/val2017/000000168337.jpg"}
+{"image": "../coco/val2017/000000084650.jpg"}

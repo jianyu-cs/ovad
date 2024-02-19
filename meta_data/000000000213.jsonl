@@ -1,0 +1,6 @@
+{"utterance": "There are black trucks or white chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000123131.jpg", "../coco/val2017/000000322352.jpg"]}
+{"image": "../coco/val2017/000000123131.jpg"}
+{"image": "../coco/val2017/000000322352.jpg"}
+{"image": "../coco/val2017/000000345027.jpg"}
+{"image": "../coco/val2017/000000147338.jpg"}
+{"image": "../coco/val2017/000000346968.jpg"}

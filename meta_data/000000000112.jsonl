@@ -1,0 +1,6 @@
+{"utterance": "There are white sheeps or adult persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000278353.jpg", "../coco/val2017/000000019924.jpg"]}
+{"image": "../coco/val2017/000000278353.jpg"}
+{"image": "../coco/val2017/000000019924.jpg"}
+{"image": "../coco/val2017/000000140583.jpg"}
+{"image": "../coco/val2017/000000198960.jpg"}
+{"image": "../coco/val2017/000000256775.jpg"}

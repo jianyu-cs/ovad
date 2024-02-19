@@ -1,0 +1,6 @@
+{"utterance": "There are lying beds or white remotes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000345385.jpg", "../coco/val2017/000000037670.jpg"]}
+{"image": "../coco/val2017/000000345385.jpg"}
+{"image": "../coco/val2017/000000037670.jpg"}
+{"image": "../coco/val2017/000000190637.jpg"}
+{"image": "../coco/val2017/000000290843.jpg"}
+{"image": "../coco/val2017/000000021503.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are adult persons or gray teddy bears in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000199681.jpg", "../coco/val2017/000000414170.jpg"]}
+{"image": "../coco/val2017/000000199681.jpg"}
+{"image": "../coco/val2017/000000414170.jpg"}
+{"image": "../coco/val2017/000000286660.jpg"}
+{"image": "../coco/val2017/000000249129.jpg"}
+{"image": "../coco/val2017/000000481413.jpg"}

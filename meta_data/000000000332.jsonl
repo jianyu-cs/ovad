@@ -1,0 +1,6 @@
+{"utterance": "There are gray tvs or white books in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000366141.jpg", "../coco/val2017/000000231831.jpg"]}
+{"image": "../coco/val2017/000000366141.jpg"}
+{"image": "../coco/val2017/000000231831.jpg"}
+{"image": "../coco/val2017/000000121586.jpg"}
+{"image": "../coco/val2017/000000319935.jpg"}
+{"image": "../coco/val2017/000000535253.jpg"}

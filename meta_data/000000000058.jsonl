@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored knifes or white dining tables in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000256518.jpg", "../coco/val2017/000000007818.jpg"]}
+{"image": "../coco/val2017/000000256518.jpg"}
+{"image": "../coco/val2017/000000007818.jpg"}
+{"image": "../coco/val2017/000000156643.jpg"}
+{"image": "../coco/val2017/000000322163.jpg"}
+{"image": "../coco/val2017/000000287667.jpg"}

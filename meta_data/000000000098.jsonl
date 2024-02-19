@@ -1,0 +1,6 @@
+{"utterance": "There are green vases or white beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000061333.jpg", "../coco/val2017/000000069795.jpg"]}
+{"image": "../coco/val2017/000000061333.jpg"}
+{"image": "../coco/val2017/000000069795.jpg"}
+{"image": "../coco/val2017/000000319935.jpg"}
+{"image": "../coco/val2017/000000463842.jpg"}
+{"image": "../coco/val2017/000000166166.jpg"}

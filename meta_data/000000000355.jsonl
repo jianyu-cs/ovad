@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored sandwichs or unicolored apples in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000461009.jpg", "../coco/val2017/000000341828.jpg"]}
+{"image": "../coco/val2017/000000461009.jpg"}
+{"image": "../coco/val2017/000000341828.jpg"}
+{"image": "../coco/val2017/000000339442.jpg"}
+{"image": "../coco/val2017/000000405691.jpg"}
+{"image": "../coco/val2017/000000218249.jpg"}

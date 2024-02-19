@@ -1,0 +1,6 @@
+{"utterance": "There are white sports balls or blue baseball bats in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000270474.jpg", "../coco/val2017/000000022935.jpg"]}
+{"image": "../coco/val2017/000000270474.jpg"}
+{"image": "../coco/val2017/000000022935.jpg"}
+{"image": "../coco/val2017/000000033759.jpg"}
+{"image": "../coco/val2017/000000123213.jpg"}
+{"image": "../coco/val2017/000000042296.jpg"}

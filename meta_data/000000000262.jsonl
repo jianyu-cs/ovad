@@ -1,0 +1,6 @@
+{"utterance": "There are adult dogs or white boats in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000378139.jpg", "../coco/val2017/000000255664.jpg"]}
+{"image": "../coco/val2017/000000378139.jpg"}
+{"image": "../coco/val2017/000000255664.jpg"}
+{"image": "../coco/val2017/000000171611.jpg"}
+{"image": "../coco/val2017/000000205401.jpg"}
+{"image": "../coco/val2017/000000139099.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are opaque trucks or two-colored motorcycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000102411.jpg", "../coco/val2017/000000097924.jpg"]}
+{"image": "../coco/val2017/000000102411.jpg"}
+{"image": "../coco/val2017/000000097924.jpg"}
+{"image": "../coco/val2017/000000081394.jpg"}
+{"image": "../coco/val2017/000000147740.jpg"}
+{"image": "../coco/val2017/000000067616.jpg"}

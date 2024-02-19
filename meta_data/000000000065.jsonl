@@ -1,0 +1,6 @@
+{"utterance": "There are red cakes or opaque dining tables in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000102820.jpg", "../coco/val2017/000000157390.jpg"]}
+{"image": "../coco/val2017/000000102820.jpg"}
+{"image": "../coco/val2017/000000157390.jpg"}
+{"image": "../coco/val2017/000000048396.jpg"}
+{"image": "../coco/val2017/000000245651.jpg"}
+{"image": "../coco/val2017/000000316666.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored surfboards or lying kites in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000529939.jpg", "../coco/val2017/000000181303.jpg"]}
+{"image": "../coco/val2017/000000529939.jpg"}
+{"image": "../coco/val2017/000000181303.jpg"}
+{"image": "../coco/val2017/000000273232.jpg"}
+{"image": "../coco/val2017/000000512657.jpg"}
+{"image": "../coco/val2017/000000134322.jpg"}

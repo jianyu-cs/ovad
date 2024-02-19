@@ -1,0 +1,6 @@
+{"utterance": "There are persons with plain clothes or white toilets in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000446574.jpg", "../coco/val2017/000000210915.jpg"]}
+{"image": "../coco/val2017/000000446574.jpg"}
+{"image": "../coco/val2017/000000210915.jpg"}
+{"image": "../coco/val2017/000000032817.jpg"}
+{"image": "../coco/val2017/000000352584.jpg"}
+{"image": "../coco/val2017/000000368212.jpg"}

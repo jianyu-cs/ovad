@@ -1,0 +1,6 @@
+{"utterance": "There are opaque bowls or opaque microwaves in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000097022.jpg", "../coco/val2017/000000084241.jpg"]}
+{"image": "../coco/val2017/000000097022.jpg"}
+{"image": "../coco/val2017/000000084241.jpg"}
+{"image": "../coco/val2017/000000246436.jpg"}
+{"image": "../coco/val2017/000000068833.jpg"}
+{"image": "../coco/val2017/000000322959.jpg"}

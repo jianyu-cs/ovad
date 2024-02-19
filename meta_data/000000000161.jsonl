@@ -1,0 +1,6 @@
+{"utterance": "There are persons with plain clothes or young elephants in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000110638.jpg", "../coco/val2017/000000416885.jpg"]}
+{"image": "../coco/val2017/000000110638.jpg"}
+{"image": "../coco/val2017/000000416885.jpg"}
+{"image": "../coco/val2017/000000006894.jpg"}
+{"image": "../coco/val2017/000000369037.jpg"}
+{"image": "../coco/val2017/000000351823.jpg"}

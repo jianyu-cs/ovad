@@ -1,0 +1,6 @@
+{"utterance": "There are transparent vases or gray couchs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000189806.jpg", "../coco/val2017/000000249025.jpg"]}
+{"image": "../coco/val2017/000000189806.jpg"}
+{"image": "../coco/val2017/000000249025.jpg"}
+{"image": "../coco/val2017/000000357978.jpg"}
+{"image": "../coco/val2017/000000371749.jpg"}
+{"image": "../coco/val2017/000000031050.jpg"}

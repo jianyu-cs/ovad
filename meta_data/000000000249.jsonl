@@ -1,0 +1,6 @@
+{"utterance": "There are white donuts or reflective forks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000326462.jpg", "../coco/val2017/000000320664.jpg"]}
+{"image": "../coco/val2017/000000326462.jpg"}
+{"image": "../coco/val2017/000000320664.jpg"}
+{"image": "../coco/val2017/000000363666.jpg"}
+{"image": "../coco/val2017/000000349152.jpg"}
+{"image": "../coco/val2017/000000209142.jpg"}

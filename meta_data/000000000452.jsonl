@@ -1,0 +1,6 @@
+{"utterance": "There are adult persons or white donuts in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000109798.jpg", "../coco/val2017/000000451144.jpg"]}
+{"image": "../coco/val2017/000000109798.jpg"}
+{"image": "../coco/val2017/000000451144.jpg"}
+{"image": "../coco/val2017/000000326462.jpg"}
+{"image": "../coco/val2017/000000260470.jpg"}
+{"image": "../coco/val2017/000000321333.jpg"}

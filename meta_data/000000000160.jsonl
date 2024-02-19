@@ -1,0 +1,6 @@
+{"utterance": "There are white bananas or two-colored teddy bears in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000125062.jpg", "../coco/val2017/000000173008.jpg"]}
+{"image": "../coco/val2017/000000125062.jpg"}
+{"image": "../coco/val2017/000000173008.jpg"}
+{"image": "../coco/val2017/000000219283.jpg"}
+{"image": "../coco/val2017/000000145020.jpg"}
+{"image": "../coco/val2017/000000078959.jpg"}

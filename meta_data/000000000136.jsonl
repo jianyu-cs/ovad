@@ -1,0 +1,6 @@
+{"utterance": "There are opaque vases or unicolored sinks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000090108.jpg", "../coco/val2017/000000097585.jpg"]}
+{"image": "../coco/val2017/000000090108.jpg"}
+{"image": "../coco/val2017/000000097585.jpg"}
+{"image": "../coco/val2017/000000210855.jpg"}
+{"image": "../coco/val2017/000000009772.jpg"}
+{"image": "../coco/val2017/000000087742.jpg"}

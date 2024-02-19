@@ -1,0 +1,6 @@
+{"utterance": "There are blue backpacks or white frisbees in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000227482.jpg", "../coco/val2017/000000253835.jpg"]}
+{"image": "../coco/val2017/000000227482.jpg"}
+{"image": "../coco/val2017/000000253835.jpg"}
+{"image": "../coco/val2017/000000328238.jpg"}
+{"image": "../coco/val2017/000000009378.jpg"}
+{"image": "../coco/val2017/000000549390.jpg"}

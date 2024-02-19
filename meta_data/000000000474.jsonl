@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored teddy bears or standing microwaves in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000207538.jpg", "../coco/val2017/000000211120.jpg"]}
+{"image": "../coco/val2017/000000207538.jpg"}
+{"image": "../coco/val2017/000000211120.jpg"}
+{"image": "../coco/val2017/000000319696.jpg"}
+{"image": "../coco/val2017/000000091615.jpg"}
+{"image": "../coco/val2017/000000117492.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are lying beds or unicolored donuts in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000349152.jpg", "../coco/val2017/000000190637.jpg"]}
+{"image": "../coco/val2017/000000349152.jpg"}
+{"image": "../coco/val2017/000000190637.jpg"}
+{"image": "../coco/val2017/000000192904.jpg"}
+{"image": "../coco/val2017/000000310200.jpg"}
+{"image": "../coco/val2017/000000290843.jpg"}

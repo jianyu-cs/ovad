@@ -1,0 +1,6 @@
+{"utterance": "There are reflective cars or lying trucks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000372260.jpg", "../coco/val2017/000000365745.jpg"]}
+{"image": "../coco/val2017/000000372260.jpg"}
+{"image": "../coco/val2017/000000365745.jpg"}
+{"image": "../coco/val2017/000000491213.jpg"}
+{"image": "../coco/val2017/000000555050.jpg"}
+{"image": "../coco/val2017/000000334006.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are transparent bottles or white dining tables in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000226147.jpg", "../coco/val2017/000000145781.jpg"]}
+{"image": "../coco/val2017/000000226147.jpg"}
+{"image": "../coco/val2017/000000145781.jpg"}
+{"image": "../coco/val2017/000000030213.jpg"}
+{"image": "../coco/val2017/000000239857.jpg"}
+{"image": "../coco/val2017/000000026564.jpg"}

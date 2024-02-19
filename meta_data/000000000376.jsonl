@@ -1,0 +1,6 @@
+{"utterance": "There are standing persons or red buss in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000249219.jpg", "../coco/val2017/000000000872.jpg"]}
+{"image": "../coco/val2017/000000249219.jpg"}
+{"image": "../coco/val2017/000000000872.jpg"}
+{"image": "../coco/val2017/000000334371.jpg"}
+{"image": "../coco/val2017/000000220732.jpg"}
+{"image": "../coco/val2017/000000245026.jpg"}

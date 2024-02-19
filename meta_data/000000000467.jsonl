@@ -1,0 +1,6 @@
+{"utterance": "There are young elephants or adult persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000330790.jpg", "../coco/val2017/000000532855.jpg"]}
+{"image": "../coco/val2017/000000330790.jpg"}
+{"image": "../coco/val2017/000000532855.jpg"}
+{"image": "../coco/val2017/000000006894.jpg"}
+{"image": "../coco/val2017/000000178618.jpg"}
+{"image": "../coco/val2017/000000033759.jpg"}

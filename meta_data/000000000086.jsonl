@@ -1,0 +1,6 @@
+{"utterance": "There are standing backpacks or plain patterned suitcases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000526728.jpg", "../coco/val2017/000000094944.jpg"]}
+{"image": "../coco/val2017/000000526728.jpg"}
+{"image": "../coco/val2017/000000094944.jpg"}
+{"image": "../coco/val2017/000000055150.jpg"}
+{"image": "../coco/val2017/000000359855.jpg"}
+{"image": "../coco/val2017/000000193926.jpg"}

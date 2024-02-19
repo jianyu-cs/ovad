@@ -1,0 +1,6 @@
+{"utterance": "There are lying beds or opaque dining tables in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000263644.jpg", "../coco/val2017/000000322352.jpg"]}
+{"image": "../coco/val2017/000000263644.jpg"}
+{"image": "../coco/val2017/000000322352.jpg"}
+{"image": "../coco/val2017/000000001993.jpg"}
+{"image": "../coco/val2017/000000290843.jpg"}
+{"image": "../coco/val2017/000000316666.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are gray stop signs or plain patterned trucks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000025593.jpg", "../coco/val2017/000000147338.jpg"]}
+{"image": "../coco/val2017/000000025593.jpg"}
+{"image": "../coco/val2017/000000147338.jpg"}
+{"image": "../coco/val2017/000000000724.jpg"}
+{"image": "../coco/val2017/000000343976.jpg"}
+{"image": "../coco/val2017/000000184338.jpg"}

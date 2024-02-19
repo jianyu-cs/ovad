@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned surfboards or persons with plain clothes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000127517.jpg", "../coco/val2017/000000322163.jpg"]}
+{"image": "../coco/val2017/000000127517.jpg"}
+{"image": "../coco/val2017/000000322163.jpg"}
+{"image": "../coco/val2017/000000404805.jpg"}
+{"image": "../coco/val2017/000000477955.jpg"}
+{"image": "../coco/val2017/000000369037.jpg"}

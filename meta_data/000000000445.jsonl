@@ -1,0 +1,6 @@
+{"utterance": "There are standing sinks or multicolored toothbrushs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000292060.jpg", "../coco/val2017/000000193348.jpg"]}
+{"image": "../coco/val2017/000000292060.jpg"}
+{"image": "../coco/val2017/000000193348.jpg"}
+{"image": "../coco/val2017/000000521405.jpg"}
+{"image": "../coco/val2017/000000066231.jpg"}
+{"image": "../coco/val2017/000000160666.jpg"}

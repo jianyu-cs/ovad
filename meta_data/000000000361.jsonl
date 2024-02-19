@@ -1,0 +1,6 @@
+{"utterance": "There are green bananas or sitting persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000402615.jpg", "../coco/val2017/000000078959.jpg"]}
+{"image": "../coco/val2017/000000402615.jpg"}
+{"image": "../coco/val2017/000000078959.jpg"}
+{"image": "../coco/val2017/000000147740.jpg"}
+{"image": "../coco/val2017/000000246436.jpg"}
+{"image": "../coco/val2017/000000437205.jpg"}

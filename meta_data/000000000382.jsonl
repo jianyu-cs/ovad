@@ -1,0 +1,6 @@
+{"utterance": "There are gray skateboards or unicolored trains in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000013201.jpg", "../coco/val2017/000000100274.jpg"]}
+{"image": "../coco/val2017/000000013201.jpg"}
+{"image": "../coco/val2017/000000100274.jpg"}
+{"image": "../coco/val2017/000000558213.jpg"}
+{"image": "../coco/val2017/000000119911.jpg"}
+{"image": "../coco/val2017/000000558421.jpg"}

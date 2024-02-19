@@ -1,0 +1,6 @@
+{"utterance": "There are standing persons or lying trains in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000311883.jpg", "../coco/val2017/000000311928.jpg"]}
+{"image": "../coco/val2017/000000311883.jpg"}
+{"image": "../coco/val2017/000000311928.jpg"}
+{"image": "../coco/val2017/000000061268.jpg"}
+{"image": "../coco/val2017/000000306893.jpg"}
+{"image": "../coco/val2017/000000320743.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are white cars or red snowboards in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000350405.jpg", "../coco/val2017/000000124798.jpg"]}
+{"image": "../coco/val2017/000000350405.jpg"}
+{"image": "../coco/val2017/000000124798.jpg"}
+{"image": "../coco/val2017/000000428454.jpg"}
+{"image": "../coco/val2017/000000044195.jpg"}
+{"image": "../coco/val2017/000000365207.jpg"}

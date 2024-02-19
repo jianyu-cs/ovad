@@ -1,0 +1,6 @@
+{"utterance": "There are yellow traffic lights or red stop signs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000252332.jpg", "../coco/val2017/000000307074.jpg"]}
+{"image": "../coco/val2017/000000252332.jpg"}
+{"image": "../coco/val2017/000000307074.jpg"}
+{"image": "../coco/val2017/000000522751.jpg"}
+{"image": "../coco/val2017/000000225946.jpg"}
+{"image": "../coco/val2017/000000361103.jpg"}

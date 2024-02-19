@@ -1,0 +1,6 @@
+{"utterance": "There are opaque cups or unicolored beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000226408.jpg", "../coco/val2017/000000496571.jpg"]}
+{"image": "../coco/val2017/000000226408.jpg"}
+{"image": "../coco/val2017/000000496571.jpg"}
+{"image": "../coco/val2017/000000283412.jpg"}
+{"image": "../coco/val2017/000000106389.jpg"}
+{"image": "../coco/val2017/000000092053.jpg"}

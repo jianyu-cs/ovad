@@ -1,0 +1,6 @@
+{"utterance": "There are reflective knifes or opaque dining tables in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000378605.jpg", "../coco/val2017/000000167572.jpg"]}
+{"image": "../coco/val2017/000000378605.jpg"}
+{"image": "../coco/val2017/000000167572.jpg"}
+{"image": "../coco/val2017/000000227985.jpg"}
+{"image": "../coco/val2017/000000189310.jpg"}
+{"image": "../coco/val2017/000000116206.jpg"}

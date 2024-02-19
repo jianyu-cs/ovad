@@ -1,0 +1,6 @@
+{"utterance": "There are white refrigerators or standing ovens in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000221708.jpg", "../coco/val2017/000000091615.jpg"]}
+{"image": "../coco/val2017/000000221708.jpg"}
+{"image": "../coco/val2017/000000091615.jpg"}
+{"image": "../coco/val2017/000000037777.jpg"}
+{"image": "../coco/val2017/000000156278.jpg"}
+{"image": "../coco/val2017/000000029640.jpg"}

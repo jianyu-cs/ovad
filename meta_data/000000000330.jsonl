@@ -1,0 +1,6 @@
+{"utterance": "There are tartan beds or unicolored laptops in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000135872.jpg", "../coco/val2017/000000555005.jpg"]}
+{"image": "../coco/val2017/000000135872.jpg"}
+{"image": "../coco/val2017/000000555005.jpg"}
+{"image": "../coco/val2017/000000134882.jpg"}
+{"image": "../coco/val2017/000000016439.jpg"}
+{"image": "../coco/val2017/000000035062.jpg"}

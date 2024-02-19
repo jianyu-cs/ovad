@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored chairs or multicolored pizzas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000108253.jpg", "../coco/val2017/000000181753.jpg"]}
+{"image": "../coco/val2017/000000108253.jpg"}
+{"image": "../coco/val2017/000000181753.jpg"}
+{"image": "../coco/val2017/000000429623.jpg"}
+{"image": "../coco/val2017/000000163611.jpg"}
+{"image": "../coco/val2017/000000410880.jpg"}

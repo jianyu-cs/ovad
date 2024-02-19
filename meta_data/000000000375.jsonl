@@ -1,0 +1,6 @@
+{"utterance": "There are orange bowls or black clocks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000231822.jpg", "../coco/val2017/000000282298.jpg"]}
+{"image": "../coco/val2017/000000231822.jpg"}
+{"image": "../coco/val2017/000000282298.jpg"}
+{"image": "../coco/val2017/000000045550.jpg"}
+{"image": "../coco/val2017/000000199771.jpg"}
+{"image": "../coco/val2017/000000161642.jpg"}

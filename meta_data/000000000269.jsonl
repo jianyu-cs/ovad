@@ -1,0 +1,6 @@
+{"utterance": "There are transparent wine glasss or standing chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000385029.jpg", "../coco/val2017/000000153011.jpg"]}
+{"image": "../coco/val2017/000000385029.jpg"}
+{"image": "../coco/val2017/000000153011.jpg"}
+{"image": "../coco/val2017/000000513041.jpg"}
+{"image": "../coco/val2017/000000031620.jpg"}
+{"image": "../coco/val2017/000000084477.jpg"}

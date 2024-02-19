@@ -1,0 +1,6 @@
+{"utterance": "There are persons with plain clothes or adult dogs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000089880.jpg", "../coco/val2017/000000267191.jpg"]}
+{"image": "../coco/val2017/000000089880.jpg"}
+{"image": "../coco/val2017/000000267191.jpg"}
+{"image": "../coco/val2017/000000053529.jpg"}
+{"image": "../coco/val2017/000000139099.jpg"}
+{"image": "../coco/val2017/000000270883.jpg"}

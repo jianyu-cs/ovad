@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored ovens or opaque cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000109976.jpg", "../coco/val2017/000000110999.jpg"]}
+{"image": "../coco/val2017/000000109976.jpg"}
+{"image": "../coco/val2017/000000110999.jpg"}
+{"image": "../coco/val2017/000000246968.jpg"}
+{"image": "../coco/val2017/000000458768.jpg"}
+{"image": "../coco/val2017/000000578922.jpg"}

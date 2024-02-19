@@ -1,0 +1,6 @@
+{"utterance": "There are white backpacks or standing teddy bears in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000253835.jpg", "../coco/val2017/000000335081.jpg"]}
+{"image": "../coco/val2017/000000253835.jpg"}
+{"image": "../coco/val2017/000000335081.jpg"}
+{"image": "../coco/val2017/000000057150.jpg"}
+{"image": "../coco/val2017/000000054593.jpg"}
+{"image": "../coco/val2017/000000220310.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored bananas or orange oranges in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000050896.jpg", "../coco/val2017/000000050149.jpg"]}
+{"image": "../coco/val2017/000000050896.jpg"}
+{"image": "../coco/val2017/000000050149.jpg"}
+{"image": "../coco/val2017/000000352618.jpg"}
+{"image": "../coco/val2017/000000069356.jpg"}
+{"image": "../coco/val2017/000000113589.jpg"}

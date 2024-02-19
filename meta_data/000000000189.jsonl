@@ -1,0 +1,6 @@
+{"utterance": "There are gray forks or brown birds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000374551.jpg", "../coco/val2017/000000313783.jpg"]}
+{"image": "../coco/val2017/000000374551.jpg"}
+{"image": "../coco/val2017/000000313783.jpg"}
+{"image": "../coco/val2017/000000210032.jpg"}
+{"image": "../coco/val2017/000000186345.jpg"}
+{"image": "../coco/val2017/000000385029.jpg"}

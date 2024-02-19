@@ -1,0 +1,6 @@
+{"utterance": "There are reflective knifes or yellow pizzas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000361238.jpg", "../coco/val2017/000000153632.jpg"]}
+{"image": "../coco/val2017/000000361238.jpg"}
+{"image": "../coco/val2017/000000153632.jpg"}
+{"image": "../coco/val2017/000000160012.jpg"}
+{"image": "../coco/val2017/000000177489.jpg"}
+{"image": "../coco/val2017/000000416885.jpg"}

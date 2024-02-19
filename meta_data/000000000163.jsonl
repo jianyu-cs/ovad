@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored sandwichs or adult persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000438226.jpg", "../coco/val2017/000000131556.jpg"]}
+{"image": "../coco/val2017/000000438226.jpg"}
+{"image": "../coco/val2017/000000131556.jpg"}
+{"image": "../coco/val2017/000000167572.jpg"}
+{"image": "../coco/val2017/000000279730.jpg"}
+{"image": "../coco/val2017/000000106912.jpg"}

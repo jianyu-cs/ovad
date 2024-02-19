@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored bowls or opaque forks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000104669.jpg", "../coco/val2017/000000158660.jpg"]}
+{"image": "../coco/val2017/000000104669.jpg"}
+{"image": "../coco/val2017/000000158660.jpg"}
+{"image": "../coco/val2017/000000105014.jpg"}
+{"image": "../coco/val2017/000000018380.jpg"}
+{"image": "../coco/val2017/000000248400.jpg"}

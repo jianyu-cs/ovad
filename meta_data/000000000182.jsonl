@@ -1,0 +1,6 @@
+{"utterance": "There are black umbrellas or plain patterned dining tables in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000309964.jpg", "../coco/val2017/000000381587.jpg"]}
+{"image": "../coco/val2017/000000309964.jpg"}
+{"image": "../coco/val2017/000000381587.jpg"}
+{"image": "../coco/val2017/000000341058.jpg"}
+{"image": "../coco/val2017/000000250619.jpg"}
+{"image": "../coco/val2017/000000113720.jpg"}

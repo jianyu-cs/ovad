@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored skateboards or lying trains in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000035197.jpg", "../coco/val2017/000000500423.jpg"]}
+{"image": "../coco/val2017/000000035197.jpg"}
+{"image": "../coco/val2017/000000500423.jpg"}
+{"image": "../coco/val2017/000000558213.jpg"}
+{"image": "../coco/val2017/000000261982.jpg"}
+{"image": "../coco/val2017/000000323751.jpg"}

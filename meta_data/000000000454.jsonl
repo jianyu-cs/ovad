@@ -1,0 +1,6 @@
+{"utterance": "There are persons with curled hair or unicolored donuts in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000238866.jpg", "../coco/val2017/000000284743.jpg"]}
+{"image": "../coco/val2017/000000238866.jpg"}
+{"image": "../coco/val2017/000000284743.jpg"}
+{"image": "../coco/val2017/000000163640.jpg"}
+{"image": "../coco/val2017/000000002587.jpg"}
+{"image": "../coco/val2017/000000281754.jpg"}

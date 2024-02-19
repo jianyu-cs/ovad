@@ -1,0 +1,6 @@
+{"utterance": "There are blue kites or black surfboards in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000154425.jpg", "../coco/val2017/000000273232.jpg"]}
+{"image": "../coco/val2017/000000154425.jpg"}
+{"image": "../coco/val2017/000000273232.jpg"}
+{"image": "../coco/val2017/000000128675.jpg"}
+{"image": "../coco/val2017/000000163057.jpg"}
+{"image": "../coco/val2017/000000021879.jpg"}

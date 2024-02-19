@@ -1,0 +1,6 @@
+{"utterance": "There are lying benchs or unicolored baseball bats in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000017436.jpg", "../coco/val2017/000000447088.jpg"]}
+{"image": "../coco/val2017/000000017436.jpg"}
+{"image": "../coco/val2017/000000447088.jpg"}
+{"image": "../coco/val2017/000000018491.jpg"}
+{"image": "../coco/val2017/000000340175.jpg"}
+{"image": "../coco/val2017/000000158227.jpg"}

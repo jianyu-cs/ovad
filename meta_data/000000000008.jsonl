@@ -1,0 +1,6 @@
+{"utterance": "There are persons with plain clothes or standing cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000184384.jpg", "../coco/val2017/000000572620.jpg"]}
+{"image": "../coco/val2017/000000184384.jpg"}
+{"image": "../coco/val2017/000000572620.jpg"}
+{"image": "../coco/val2017/000000383606.jpg"}
+{"image": "../coco/val2017/000000074646.jpg"}
+{"image": "../coco/val2017/000000248400.jpg"}

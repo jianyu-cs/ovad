@@ -1,0 +1,6 @@
+{"utterance": "There are multicolored elephants or plain patterned handbags in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000325031.jpg", "../coco/val2017/000000100238.jpg"]}
+{"image": "../coco/val2017/000000325031.jpg"}
+{"image": "../coco/val2017/000000100238.jpg"}
+{"image": "../coco/val2017/000000369037.jpg"}
+{"image": "../coco/val2017/000000126216.jpg"}
+{"image": "../coco/val2017/000000224675.jpg"}

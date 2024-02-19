@@ -1,0 +1,6 @@
+{"utterance": "There are adult persons or black trains in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000344816.jpg", "../coco/val2017/000000032081.jpg"]}
+{"image": "../coco/val2017/000000344816.jpg"}
+{"image": "../coco/val2017/000000032081.jpg"}
+{"image": "../coco/val2017/000000469246.jpg"}
+{"image": "../coco/val2017/000000151857.jpg"}
+{"image": "../coco/val2017/000000289417.jpg"}

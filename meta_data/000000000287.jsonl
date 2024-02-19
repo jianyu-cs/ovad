@@ -1,0 +1,6 @@
+{"utterance": "There are standing persons or unicolored teddy bears in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000322163.jpg", "../coco/val2017/000000321333.jpg"]}
+{"image": "../coco/val2017/000000322163.jpg"}
+{"image": "../coco/val2017/000000321333.jpg"}
+{"image": "../coco/val2017/000000463802.jpg"}
+{"image": "../coco/val2017/000000113720.jpg"}
+{"image": "../coco/val2017/000000050638.jpg"}

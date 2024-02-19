@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored motorcycles or standing bicycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000314251.jpg", "../coco/val2017/000000261888.jpg"]}
+{"image": "../coco/val2017/000000314251.jpg"}
+{"image": "../coco/val2017/000000261888.jpg"}
+{"image": "../coco/val2017/000000122166.jpg"}
+{"image": "../coco/val2017/000000454978.jpg"}
+{"image": "../coco/val2017/000000356612.jpg"}

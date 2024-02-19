@@ -1,0 +1,6 @@
+{"utterance": "There are persons with straight hair or brown bears in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000127955.jpg", "../coco/val2017/000000515982.jpg"]}
+{"image": "../coco/val2017/000000127955.jpg"}
+{"image": "../coco/val2017/000000515982.jpg"}
+{"image": "../coco/val2017/000000341094.jpg"}
+{"image": "../coco/val2017/000000092839.jpg"}
+{"image": "../coco/val2017/000000025057.jpg"}

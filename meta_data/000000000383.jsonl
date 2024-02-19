@@ -1,0 +1,6 @@
+{"utterance": "There are brown benchs or persons with plain clothes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000099039.jpg", "../coco/val2017/000000322844.jpg"]}
+{"image": "../coco/val2017/000000099039.jpg"}
+{"image": "../coco/val2017/000000322844.jpg"}
+{"image": "../coco/val2017/000000289417.jpg"}
+{"image": "../coco/val2017/000000081738.jpg"}
+{"image": "../coco/val2017/000000089697.jpg"}

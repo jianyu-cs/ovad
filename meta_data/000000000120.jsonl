@@ -1,0 +1,6 @@
+{"utterance": "There are white birds or multicolored cats in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000463618.jpg", "../coco/val2017/000000189806.jpg"]}
+{"image": "../coco/val2017/000000463618.jpg"}
+{"image": "../coco/val2017/000000189806.jpg"}
+{"image": "../coco/val2017/000000222235.jpg"}
+{"image": "../coco/val2017/000000296649.jpg"}
+{"image": "../coco/val2017/000000311789.jpg"}

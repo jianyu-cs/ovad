@@ -1,0 +1,6 @@
+{"utterance": "There are opaque frisbees or adult dogs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000486479.jpg", "../coco/val2017/000000328337.jpg"]}
+{"image": "../coco/val2017/000000486479.jpg"}
+{"image": "../coco/val2017/000000328337.jpg"}
+{"image": "../coco/val2017/000000138492.jpg"}
+{"image": "../coco/val2017/000000139099.jpg"}
+{"image": "../coco/val2017/000000163562.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored sports balls or unicolored baseball bats in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000305309.jpg", "../coco/val2017/000000042296.jpg"]}
+{"image": "../coco/val2017/000000305309.jpg"}
+{"image": "../coco/val2017/000000042296.jpg"}
+{"image": "../coco/val2017/000000060507.jpg"}
+{"image": "../coco/val2017/000000302107.jpg"}
+{"image": "../coco/val2017/000000022935.jpg"}

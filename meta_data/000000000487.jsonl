@@ -1,0 +1,6 @@
+{"utterance": "There are black cats or standing chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000134882.jpg", "../coco/val2017/000000191580.jpg"]}
+{"image": "../coco/val2017/000000134882.jpg"}
+{"image": "../coco/val2017/000000191580.jpg"}
+{"image": "../coco/val2017/000000519764.jpg"}
+{"image": "../coco/val2017/000000155291.jpg"}
+{"image": "../coco/val2017/000000116479.jpg"}

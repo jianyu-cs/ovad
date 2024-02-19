@@ -1,0 +1,6 @@
+{"utterance": "There are white boats or opaque kites in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000188689.jpg", "../coco/val2017/000000085911.jpg"]}
+{"image": "../coco/val2017/000000188689.jpg"}
+{"image": "../coco/val2017/000000085911.jpg"}
+{"image": "../coco/val2017/000000345027.jpg"}
+{"image": "../coco/val2017/000000205401.jpg"}
+{"image": "../coco/val2017/000000099024.jpg"}

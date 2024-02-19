@@ -1,0 +1,6 @@
+{"utterance": "There are standing bottles or white sinks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000066841.jpg", "../coco/val2017/000000090108.jpg"]}
+{"image": "../coco/val2017/000000066841.jpg"}
+{"image": "../coco/val2017/000000090108.jpg"}
+{"image": "../coco/val2017/000000092124.jpg"}
+{"image": "../coco/val2017/000000040083.jpg"}
+{"image": "../coco/val2017/000000186980.jpg"}

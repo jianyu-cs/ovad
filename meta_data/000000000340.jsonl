@@ -1,0 +1,6 @@
+{"utterance": "There are lying cats or tiled beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000263644.jpg", "../coco/val2017/000000291490.jpg"]}
+{"image": "../coco/val2017/000000263644.jpg"}
+{"image": "../coco/val2017/000000291490.jpg"}
+{"image": "../coco/val2017/000000014831.jpg"}
+{"image": "../coco/val2017/000000051738.jpg"}
+{"image": "../coco/val2017/000000084362.jpg"}

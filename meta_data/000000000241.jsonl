@@ -1,0 +1,6 @@
+{"utterance": "There are black bananas or opaque cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000189078.jpg", "../coco/val2017/000000562059.jpg"]}
+{"image": "../coco/val2017/000000189078.jpg"}
+{"image": "../coco/val2017/000000562059.jpg"}
+{"image": "../coco/val2017/000000376307.jpg"}
+{"image": "../coco/val2017/000000326082.jpg"}
+{"image": "../coco/val2017/000000080932.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are standing bears or plain patterned birds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000341094.jpg", "../coco/val2017/000000119233.jpg"]}
+{"image": "../coco/val2017/000000341094.jpg"}
+{"image": "../coco/val2017/000000119233.jpg"}
+{"image": "../coco/val2017/000000229997.jpg"}
+{"image": "../coco/val2017/000000205776.jpg"}
+{"image": "../coco/val2017/000000482477.jpg"}

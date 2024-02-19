@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored beds or brown chairs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000226408.jpg", "../coco/val2017/000000059598.jpg"]}
+{"image": "../coco/val2017/000000226408.jpg"}
+{"image": "../coco/val2017/000000059598.jpg"}
+{"image": "../coco/val2017/000000041872.jpg"}
+{"image": "../coco/val2017/000000073946.jpg"}
+{"image": "../coco/val2017/000000180487.jpg"}

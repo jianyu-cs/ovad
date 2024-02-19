@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored suitcases or lying umbrellas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000359855.jpg", "../coco/val2017/000000540466.jpg"]}
+{"image": "../coco/val2017/000000359855.jpg"}
+{"image": "../coco/val2017/000000540466.jpg"}
+{"image": "../coco/val2017/000000179174.jpg"}
+{"image": "../coco/val2017/000000500257.jpg"}
+{"image": "../coco/val2017/000000151938.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are yellow teddy bears or standing cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000012670.jpg", "../coco/val2017/000000535253.jpg"]}
+{"image": "../coco/val2017/000000012670.jpg"}
+{"image": "../coco/val2017/000000535253.jpg"}
+{"image": "../coco/val2017/000000020553.jpg"}
+{"image": "../coco/val2017/000000410880.jpg"}
+{"image": "../coco/val2017/000000192904.jpg"}

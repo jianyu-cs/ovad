@@ -1,0 +1,6 @@
+{"utterance": "There are standing knifes or gray refrigerators in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000095707.jpg", "../coco/val2017/000000156278.jpg"]}
+{"image": "../coco/val2017/000000095707.jpg"}
+{"image": "../coco/val2017/000000156278.jpg"}
+{"image": "../coco/val2017/000000078266.jpg"}
+{"image": "../coco/val2017/000000130613.jpg"}
+{"image": "../coco/val2017/000000014038.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are blue surfboards or standing persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000196141.jpg", "../coco/val2017/000000252701.jpg"]}
+{"image": "../coco/val2017/000000196141.jpg"}
+{"image": "../coco/val2017/000000252701.jpg"}
+{"image": "../coco/val2017/000000039785.jpg"}
+{"image": "../coco/val2017/000000272566.jpg"}
+{"image": "../coco/val2017/000000490171.jpg"}

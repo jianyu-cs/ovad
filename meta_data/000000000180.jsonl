@@ -1,0 +1,6 @@
+{"utterance": "There are lying spoons or lying knifes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000002157.jpg", "../coco/val2017/000000066817.jpg"]}
+{"image": "../coco/val2017/000000002157.jpg"}
+{"image": "../coco/val2017/000000066817.jpg"}
+{"image": "../coco/val2017/000000231822.jpg"}
+{"image": "../coco/val2017/000000040471.jpg"}
+{"image": "../coco/val2017/000000117425.jpg"}

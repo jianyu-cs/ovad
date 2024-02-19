@@ -1,0 +1,6 @@
+{"utterance": "There are brown skateboards or plain patterned cars in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000362520.jpg", "../coco/val2017/000000033854.jpg"]}
+{"image": "../coco/val2017/000000362520.jpg"}
+{"image": "../coco/val2017/000000033854.jpg"}
+{"image": "../coco/val2017/000000013546.jpg"}
+{"image": "../coco/val2017/000000434204.jpg"}
+{"image": "../coco/val2017/000000507667.jpg"}

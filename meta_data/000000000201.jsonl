@@ -1,0 +1,6 @@
+{"utterance": "There are yellow bananas or lying laptops in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000322959.jpg", "../coco/val2017/000000119233.jpg"]}
+{"image": "../coco/val2017/000000322959.jpg"}
+{"image": "../coco/val2017/000000119233.jpg"}
+{"image": "../coco/val2017/000000326082.jpg"}
+{"image": "../coco/val2017/000000078959.jpg"}
+{"image": "../coco/val2017/000000302030.jpg"}

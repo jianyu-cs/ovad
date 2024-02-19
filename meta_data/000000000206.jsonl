@@ -1,0 +1,6 @@
+{"utterance": "There are standing handbags or white stop signs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000015440.jpg", "../coco/val2017/000000100238.jpg"]}
+{"image": "../coco/val2017/000000015440.jpg"}
+{"image": "../coco/val2017/000000100238.jpg"}
+{"image": "../coco/val2017/000000343496.jpg"}
+{"image": "../coco/val2017/000000344611.jpg"}
+{"image": "../coco/val2017/000000553664.jpg"}

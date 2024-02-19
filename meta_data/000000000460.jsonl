@@ -1,0 +1,6 @@
+{"utterance": "There are red trains or opaque motorcycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000106281.jpg", "../coco/val2017/000000491090.jpg"]}
+{"image": "../coco/val2017/000000106281.jpg"}
+{"image": "../coco/val2017/000000491090.jpg"}
+{"image": "../coco/val2017/000000306893.jpg"}
+{"image": "../coco/val2017/000000429718.jpg"}
+{"image": "../coco/val2017/000000491213.jpg"}

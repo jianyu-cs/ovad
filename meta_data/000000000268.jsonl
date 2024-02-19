@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored hot dogs or blue umbrellas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000283268.jpg", "../coco/val2017/000000233033.jpg"]}
+{"image": "../coco/val2017/000000283268.jpg"}
+{"image": "../coco/val2017/000000233033.jpg"}
+{"image": "../coco/val2017/000000137246.jpg"}
+{"image": "../coco/val2017/000000148662.jpg"}
+{"image": "../coco/val2017/000000040083.jpg"}

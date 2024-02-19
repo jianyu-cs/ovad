@@ -1,0 +1,6 @@
+{"utterance": "There are green bicycles or gray motorcycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000455624.jpg", "../coco/val2017/000000038829.jpg"]}
+{"image": "../coco/val2017/000000455624.jpg"}
+{"image": "../coco/val2017/000000038829.jpg"}
+{"image": "../coco/val2017/000000291634.jpg"}
+{"image": "../coco/val2017/000000144300.jpg"}
+{"image": "../coco/val2017/000000008899.jpg"}

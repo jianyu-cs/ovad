@@ -1,0 +1,6 @@
+{"utterance": "There are white books or standing clocks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000191013.jpg", "../coco/val2017/000000194724.jpg"]}
+{"image": "../coco/val2017/000000191013.jpg"}
+{"image": "../coco/val2017/000000194724.jpg"}
+{"image": "../coco/val2017/000000199771.jpg"}
+{"image": "../coco/val2017/000000180383.jpg"}
+{"image": "../coco/val2017/000000421923.jpg"}

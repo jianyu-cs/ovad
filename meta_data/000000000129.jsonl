@@ -1,0 +1,6 @@
+{"utterance": "There are multicolored sandwichs or transparent vases in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000157418.jpg", "../coco/val2017/000000249025.jpg"]}
+{"image": "../coco/val2017/000000157418.jpg"}
+{"image": "../coco/val2017/000000249025.jpg"}
+{"image": "../coco/val2017/000000226147.jpg"}
+{"image": "../coco/val2017/000000175535.jpg"}
+{"image": "../coco/val2017/000000348488.jpg"}

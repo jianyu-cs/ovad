@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored benchs or standing backpacks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000070229.jpg", "../coco/val2017/000000023034.jpg"]}
+{"image": "../coco/val2017/000000070229.jpg"}
+{"image": "../coco/val2017/000000023034.jpg"}
+{"image": "../coco/val2017/000000361730.jpg"}
+{"image": "../coco/val2017/000000060347.jpg"}
+{"image": "../coco/val2017/000000030828.jpg"}

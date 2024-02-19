@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored birds or opaque forks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000482477.jpg", "../coco/val2017/000000231097.jpg"]}
+{"image": "../coco/val2017/000000482477.jpg"}
+{"image": "../coco/val2017/000000231097.jpg"}
+{"image": "../coco/val2017/000000123585.jpg"}
+{"image": "../coco/val2017/000000421834.jpg"}
+{"image": "../coco/val2017/000000210032.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are brown cows or females in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000314034.jpg", "../coco/val2017/000000276434.jpg"]}
+{"image": "../coco/val2017/000000314034.jpg"}
+{"image": "../coco/val2017/000000276434.jpg"}
+{"image": "../coco/val2017/000000455219.jpg"}
+{"image": "../coco/val2017/000000114907.jpg"}
+{"image": "../coco/val2017/000000354307.jpg"}

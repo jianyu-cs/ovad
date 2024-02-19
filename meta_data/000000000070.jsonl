@@ -1,0 +1,6 @@
+{"utterance": "There are transparent vases or striped dining tables in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000578922.jpg", "../coco/val2017/000000231822.jpg"]}
+{"image": "../coco/val2017/000000578922.jpg"}
+{"image": "../coco/val2017/000000231822.jpg"}
+{"image": "../coco/val2017/000000319935.jpg"}
+{"image": "../coco/val2017/000000440475.jpg"}
+{"image": "../coco/val2017/000000017899.jpg"}

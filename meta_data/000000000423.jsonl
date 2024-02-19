@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored trucks or striped kites in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000085665.jpg", "../coco/val2017/000000491213.jpg"]}
+{"image": "../coco/val2017/000000085665.jpg"}
+{"image": "../coco/val2017/000000491213.jpg"}
+{"image": "../coco/val2017/000000140840.jpg"}
+{"image": "../coco/val2017/000000116068.jpg"}
+{"image": "../coco/val2017/000000144300.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are lying airplanes or white parking meters in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000162366.jpg", "../coco/val2017/000000084752.jpg"]}
+{"image": "../coco/val2017/000000162366.jpg"}
+{"image": "../coco/val2017/000000084752.jpg"}
+{"image": "../coco/val2017/000000033114.jpg"}
+{"image": "../coco/val2017/000000067616.jpg"}
+{"image": "../coco/val2017/000000272049.jpg"}

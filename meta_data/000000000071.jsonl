@@ -1,0 +1,6 @@
+{"utterance": "There are reflective knifes or black refrigerators in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000074209.jpg", "../coco/val2017/000000009914.jpg"]}
+{"image": "../coco/val2017/000000074209.jpg"}
+{"image": "../coco/val2017/000000009914.jpg"}
+{"image": "../coco/val2017/000000066231.jpg"}
+{"image": "../coco/val2017/000000349837.jpg"}
+{"image": "../coco/val2017/000000231527.jpg"}

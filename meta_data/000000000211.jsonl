@@ -1,0 +1,6 @@
+{"utterance": "There are lying books or brown beds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000116479.jpg", "../coco/val2017/000000055528.jpg"]}
+{"image": "../coco/val2017/000000116479.jpg"}
+{"image": "../coco/val2017/000000055528.jpg"}
+{"image": "../coco/val2017/000000106389.jpg"}
+{"image": "../coco/val2017/000000061333.jpg"}
+{"image": "../coco/val2017/000000512403.jpg"}

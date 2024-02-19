@@ -1,0 +1,6 @@
+{"utterance": "There are adult persons or black fire hydrants in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000026926.jpg", "../coco/val2017/000000127530.jpg"]}
+{"image": "../coco/val2017/000000026926.jpg"}
+{"image": "../coco/val2017/000000127530.jpg"}
+{"image": "../coco/val2017/000000306893.jpg"}
+{"image": "../coco/val2017/000000244019.jpg"}
+{"image": "../coco/val2017/000000437205.jpg"}

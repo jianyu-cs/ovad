@@ -1,0 +1,6 @@
+{"utterance": "There are females or brown giraffes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000235252.jpg", "../coco/val2017/000000068093.jpg"]}
+{"image": "../coco/val2017/000000235252.jpg"}
+{"image": "../coco/val2017/000000068093.jpg"}
+{"image": "../coco/val2017/000000240049.jpg"}
+{"image": "../coco/val2017/000000025096.jpg"}
+{"image": "../coco/val2017/000000190676.jpg"}

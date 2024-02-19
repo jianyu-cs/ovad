@@ -1,0 +1,6 @@
+{"utterance": "There are gray birds or unicolored bowls in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000046378.jpg", "../coco/val2017/000000147415.jpg"]}
+{"image": "../coco/val2017/000000046378.jpg"}
+{"image": "../coco/val2017/000000147415.jpg"}
+{"image": "../coco/val2017/000000060823.jpg"}
+{"image": "../coco/val2017/000000216739.jpg"}
+{"image": "../coco/val2017/000000030785.jpg"}

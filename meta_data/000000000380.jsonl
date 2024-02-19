@@ -1,0 +1,6 @@
+{"utterance": "There are sitting persons or standing cows in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000124636.jpg", "../coco/val2017/000000302107.jpg"]}
+{"image": "../coco/val2017/000000124636.jpg"}
+{"image": "../coco/val2017/000000302107.jpg"}
+{"image": "../coco/val2017/000000087470.jpg"}
+{"image": "../coco/val2017/000000023937.jpg"}
+{"image": "../coco/val2017/000000182021.jpg"}

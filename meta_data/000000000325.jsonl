@@ -1,0 +1,6 @@
+{"utterance": "There are standing cows or opaque bowls in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000417085.jpg", "../coco/val2017/000000158660.jpg"]}
+{"image": "../coco/val2017/000000417085.jpg"}
+{"image": "../coco/val2017/000000158660.jpg"}
+{"image": "../coco/val2017/000000060823.jpg"}
+{"image": "../coco/val2017/000000023937.jpg"}
+{"image": "../coco/val2017/000000449190.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are white dining tables or persons with straight hair in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000157418.jpg", "../coco/val2017/000000164602.jpg"]}
+{"image": "../coco/val2017/000000157418.jpg"}
+{"image": "../coco/val2017/000000164602.jpg"}
+{"image": "../coco/val2017/000000242946.jpg"}
+{"image": "../coco/val2017/000000347335.jpg"}
+{"image": "../coco/val2017/000000364102.jpg"}

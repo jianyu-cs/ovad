@@ -1,0 +1,6 @@
+{"utterance": "There are black dining tables or unicolored donuts in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000349594.jpg", "../coco/val2017/000000177489.jpg"]}
+{"image": "../coco/val2017/000000349594.jpg"}
+{"image": "../coco/val2017/000000177489.jpg"}
+{"image": "../coco/val2017/000000561465.jpg"}
+{"image": "../coco/val2017/000000002587.jpg"}
+{"image": "../coco/val2017/000000541634.jpg"}

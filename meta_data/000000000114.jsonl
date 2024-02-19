@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored bananas or transparent bowls in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000272566.jpg", "../coco/val2017/000000562059.jpg"]}
+{"image": "../coco/val2017/000000272566.jpg"}
+{"image": "../coco/val2017/000000562059.jpg"}
+{"image": "../coco/val2017/000000113589.jpg"}
+{"image": "../coco/val2017/000000006012.jpg"}
+{"image": "../coco/val2017/000000070048.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are floral vases or lying toothbrushs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000324614.jpg", "../coco/val2017/000000395343.jpg"]}
+{"image": "../coco/val2017/000000324614.jpg"}
+{"image": "../coco/val2017/000000395343.jpg"}
+{"image": "../coco/val2017/000000578922.jpg"}
+{"image": "../coco/val2017/000000055528.jpg"}
+{"image": "../coco/val2017/000000007818.jpg"}

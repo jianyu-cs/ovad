@@ -1,0 +1,6 @@
+{"utterance": "There are lettered boats or lying umbrellas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000421757.jpg", "../coco/val2017/000000322610.jpg"]}
+{"image": "../coco/val2017/000000421757.jpg"}
+{"image": "../coco/val2017/000000322610.jpg"}
+{"image": "../coco/val2017/000000050006.jpg"}
+{"image": "../coco/val2017/000000448256.jpg"}
+{"image": "../coco/val2017/000000289938.jpg"}

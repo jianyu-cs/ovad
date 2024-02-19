@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored keyboards or standing cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000426241.jpg", "../coco/val2017/000000070048.jpg"]}
+{"image": "../coco/val2017/000000426241.jpg"}
+{"image": "../coco/val2017/000000070048.jpg"}
+{"image": "../coco/val2017/000000340894.jpg"}
+{"image": "../coco/val2017/000000225757.jpg"}
+{"image": "../coco/val2017/000000192904.jpg"}

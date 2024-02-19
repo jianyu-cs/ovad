@@ -1,0 +1,6 @@
+{"utterance": "There are plain patterned airplanes or multicolored parking meters in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000053994.jpg", "../coco/val2017/000000090631.jpg"]}
+{"image": "../coco/val2017/000000053994.jpg"}
+{"image": "../coco/val2017/000000090631.jpg"}
+{"image": "../coco/val2017/000000033114.jpg"}
+{"image": "../coco/val2017/000000258793.jpg"}
+{"image": "../coco/val2017/000000272136.jpg"}

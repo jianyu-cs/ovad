@@ -1,0 +1,6 @@
+{"utterance": "There are sitting persons or multicolored birds in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000561009.jpg", "../coco/val2017/000000239773.jpg"]}
+{"image": "../coco/val2017/000000561009.jpg"}
+{"image": "../coco/val2017/000000239773.jpg"}
+{"image": "../coco/val2017/000000542776.jpg"}
+{"image": "../coco/val2017/000000315001.jpg"}
+{"image": "../coco/val2017/000000347265.jpg"}

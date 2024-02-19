@@ -1,0 +1,6 @@
+{"utterance": "There are gray sinks or yellow bananas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000128658.jpg", "../coco/val2017/000000514914.jpg"]}
+{"image": "../coco/val2017/000000128658.jpg"}
+{"image": "../coco/val2017/000000514914.jpg"}
+{"image": "../coco/val2017/000000491216.jpg"}
+{"image": "../coco/val2017/000000219283.jpg"}
+{"image": "../coco/val2017/000000403385.jpg"}

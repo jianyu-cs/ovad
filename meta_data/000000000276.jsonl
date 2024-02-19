@@ -1,0 +1,6 @@
+{"utterance": "There are blue teddy bears or opaque toilets in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000322944.jpg", "../coco/val2017/000000176778.jpg"]}
+{"image": "../coco/val2017/000000322944.jpg"}
+{"image": "../coco/val2017/000000176778.jpg"}
+{"image": "../coco/val2017/000000315492.jpg"}
+{"image": "../coco/val2017/000000113403.jpg"}
+{"image": "../coco/val2017/000000055002.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are red hot dogs or adult persons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000283113.jpg", "../coco/val2017/000000286660.jpg"]}
+{"image": "../coco/val2017/000000283113.jpg"}
+{"image": "../coco/val2017/000000286660.jpg"}
+{"image": "../coco/val2017/000000024567.jpg"}
+{"image": "../coco/val2017/000000320664.jpg"}
+{"image": "../coco/val2017/000000117744.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored bottles or persons with straight hair in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000340697.jpg", "../coco/val2017/000000013291.jpg"]}
+{"image": "../coco/val2017/000000340697.jpg"}
+{"image": "../coco/val2017/000000013291.jpg"}
+{"image": "../coco/val2017/000000229358.jpg"}
+{"image": "../coco/val2017/000000231822.jpg"}
+{"image": "../coco/val2017/000000027972.jpg"}

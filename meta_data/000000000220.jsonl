@@ -1,0 +1,6 @@
+{"utterance": "There are white books or unicolored teddy bears in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000326970.jpg", "../coco/val2017/000000211120.jpg"]}
+{"image": "../coco/val2017/000000326970.jpg"}
+{"image": "../coco/val2017/000000211120.jpg"}
+{"image": "../coco/val2017/000000125062.jpg"}
+{"image": "../coco/val2017/000000512403.jpg"}
+{"image": "../coco/val2017/000000044068.jpg"}

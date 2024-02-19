@@ -1,0 +1,6 @@
+{"utterance": "There are standing ovens or opaque microwaves in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000269866.jpg", "../coco/val2017/000000246436.jpg"]}
+{"image": "../coco/val2017/000000269866.jpg"}
+{"image": "../coco/val2017/000000246436.jpg"}
+{"image": "../coco/val2017/000000173008.jpg"}
+{"image": "../coco/val2017/000000068833.jpg"}
+{"image": "../coco/val2017/000000029640.jpg"}

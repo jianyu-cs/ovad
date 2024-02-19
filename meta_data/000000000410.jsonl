@@ -1,0 +1,6 @@
+{"utterance": "There are brown teddy bears or multicolored bowls in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000094185.jpg", "../coco/val2017/000000236721.jpg"]}
+{"image": "../coco/val2017/000000094185.jpg"}
+{"image": "../coco/val2017/000000236721.jpg"}
+{"image": "../coco/val2017/000000211120.jpg"}
+{"image": "../coco/val2017/000000057150.jpg"}
+{"image": "../coco/val2017/000000167572.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are gray parking meters or standing bicycles in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000430871.jpg", "../coco/val2017/000000152771.jpg"]}
+{"image": "../coco/val2017/000000430871.jpg"}
+{"image": "../coco/val2017/000000152771.jpg"}
+{"image": "../coco/val2017/000000135410.jpg"}
+{"image": "../coco/val2017/000000053994.jpg"}
+{"image": "../coco/val2017/000000295809.jpg"}

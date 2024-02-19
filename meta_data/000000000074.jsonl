@@ -1,0 +1,6 @@
+{"utterance": "There are opaque cars or lettered parking meters in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000064495.jpg", "../coco/val2017/000000196141.jpg"]}
+{"image": "../coco/val2017/000000064495.jpg"}
+{"image": "../coco/val2017/000000196141.jpg"}
+{"image": "../coco/val2017/000000053994.jpg"}
+{"image": "../coco/val2017/000000430871.jpg"}
+{"image": "../coco/val2017/000000067616.jpg"}

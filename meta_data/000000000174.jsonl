@@ -1,0 +1,6 @@
+{"utterance": "There are gray chairs or gray benchs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000061108.jpg", "../coco/val2017/000000025386.jpg"]}
+{"image": "../coco/val2017/000000061108.jpg"}
+{"image": "../coco/val2017/000000025386.jpg"}
+{"image": "../coco/val2017/000000506707.jpg"}
+{"image": "../coco/val2017/000000289417.jpg"}
+{"image": "../coco/val2017/000000057232.jpg"}

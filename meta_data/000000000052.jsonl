@@ -1,0 +1,6 @@
+{"utterance": "There are lying spoons or opaque bowls in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000193926.jpg", "../coco/val2017/000000196009.jpg"]}
+{"image": "../coco/val2017/000000193926.jpg"}
+{"image": "../coco/val2017/000000196009.jpg"}
+{"image": "../coco/val2017/000000335427.jpg"}
+{"image": "../coco/val2017/000000385029.jpg"}
+{"image": "../coco/val2017/000000117425.jpg"}

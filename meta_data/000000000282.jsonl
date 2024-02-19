@@ -1,0 +1,6 @@
+{"utterance": "There are standing birds or opaque forks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000065288.jpg", "../coco/val2017/000000104669.jpg"]}
+{"image": "../coco/val2017/000000065288.jpg"}
+{"image": "../coco/val2017/000000104669.jpg"}
+{"image": "../coco/val2017/000000123585.jpg"}
+{"image": "../coco/val2017/000000023230.jpg"}
+{"image": "../coco/val2017/000000210032.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are multicolored handbags or opaque sinks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000052996.jpg", "../coco/val2017/000000521405.jpg"]}
+{"image": "../coco/val2017/000000052996.jpg"}
+{"image": "../coco/val2017/000000521405.jpg"}
+{"image": "../coco/val2017/000000241319.jpg"}
+{"image": "../coco/val2017/000000577932.jpg"}
+{"image": "../coco/val2017/000000007574.jpg"}

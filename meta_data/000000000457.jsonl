@@ -1,0 +1,6 @@
+{"utterance": "There are standing bottles or two-colored bananas in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000312406.jpg", "../coco/val2017/000000244181.jpg"]}
+{"image": "../coco/val2017/000000312406.jpg"}
+{"image": "../coco/val2017/000000244181.jpg"}
+{"image": "../coco/val2017/000000125936.jpg"}
+{"image": "../coco/val2017/000000147740.jpg"}
+{"image": "../coco/val2017/000000460841.jpg"}

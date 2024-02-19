@@ -1,0 +1,6 @@
+{"utterance": "There are unicolored toilets or multicolored books in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000237316.jpg", "../coco/val2017/000000309938.jpg"]}
+{"image": "../coco/val2017/000000237316.jpg"}
+{"image": "../coco/val2017/000000309938.jpg"}
+{"image": "../coco/val2017/000000144798.jpg"}
+{"image": "../coco/val2017/000000352584.jpg"}
+{"image": "../coco/val2017/000000287667.jpg"}

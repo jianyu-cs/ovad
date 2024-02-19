@@ -1,0 +1,6 @@
+{"utterance": "There are opaque cars or persons with plain clothes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000269316.jpg", "../coco/val2017/000000017029.jpg"]}
+{"image": "../coco/val2017/000000269316.jpg"}
+{"image": "../coco/val2017/000000017029.jpg"}
+{"image": "../coco/val2017/000000463730.jpg"}
+{"image": "../coco/val2017/000000250619.jpg"}
+{"image": "../coco/val2017/000000577932.jpg"}

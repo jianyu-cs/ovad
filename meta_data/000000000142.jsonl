@@ -1,0 +1,6 @@
+{"utterance": "There are black benchs or unicolored handbags in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000060347.jpg", "../coco/val2017/000000257169.jpg"]}
+{"image": "../coco/val2017/000000060347.jpg"}
+{"image": "../coco/val2017/000000257169.jpg"}
+{"image": "../coco/val2017/000000273132.jpg"}
+{"image": "../coco/val2017/000000507667.jpg"}
+{"image": "../coco/val2017/000000259640.jpg"}

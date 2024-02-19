@@ -1,0 +1,6 @@
+{"utterance": "There are males or unicolored trucks in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000281693.jpg", "../coco/val2017/000000132796.jpg"]}
+{"image": "../coco/val2017/000000281693.jpg"}
+{"image": "../coco/val2017/000000132796.jpg"}
+{"image": "../coco/val2017/000000191013.jpg"}
+{"image": "../coco/val2017/000000206487.jpg"}
+{"image": "../coco/val2017/000000210032.jpg"}

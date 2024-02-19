@@ -1,0 +1,6 @@
+{"utterance": "There are orange oranges or unicolored tvs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000104669.jpg", "../coco/val2017/000000218439.jpg"]}
+{"image": "../coco/val2017/000000104669.jpg"}
+{"image": "../coco/val2017/000000218439.jpg"}
+{"image": "../coco/val2017/000000063740.jpg"}
+{"image": "../coco/val2017/000000110999.jpg"}
+{"image": "../coco/val2017/000000046031.jpg"}

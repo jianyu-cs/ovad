@@ -1,0 +1,6 @@
+{"utterance": "There are gray spoons or unicolored cats in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000565962.jpg", "../coco/val2017/000000129113.jpg"]}
+{"image": "../coco/val2017/000000565962.jpg"}
+{"image": "../coco/val2017/000000129113.jpg"}
+{"image": "../coco/val2017/000000119233.jpg"}
+{"image": "../coco/val2017/000000432468.jpg"}
+{"image": "../coco/val2017/000000227765.jpg"}

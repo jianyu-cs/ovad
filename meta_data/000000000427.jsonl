@@ -1,0 +1,6 @@
+{"utterance": "There are lying keyboards or multicolored sandwichs in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000246308.jpg", "../coco/val2017/000000091779.jpg"]}
+{"image": "../coco/val2017/000000246308.jpg"}
+{"image": "../coco/val2017/000000091779.jpg"}
+{"image": "../coco/val2017/000000056288.jpg"}
+{"image": "../coco/val2017/000000301421.jpg"}
+{"image": "../coco/val2017/000000064084.jpg"}

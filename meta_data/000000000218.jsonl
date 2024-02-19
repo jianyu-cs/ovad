@@ -1,0 +1,6 @@
+{"utterance": "There are red apples or orange oranges in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000050679.jpg", "../coco/val2017/000000158660.jpg"]}
+{"image": "../coco/val2017/000000050679.jpg"}
+{"image": "../coco/val2017/000000158660.jpg"}
+{"image": "../coco/val2017/000000189078.jpg"}
+{"image": "../coco/val2017/000000167572.jpg"}
+{"image": "../coco/val2017/000000193926.jpg"}

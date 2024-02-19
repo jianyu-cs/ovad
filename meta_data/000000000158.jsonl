@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored dogs or blue frisbees in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000253386.jpg", "../coco/val2017/000000252716.jpg"]}
+{"image": "../coco/val2017/000000253386.jpg"}
+{"image": "../coco/val2017/000000252716.jpg"}
+{"image": "../coco/val2017/000000125405.jpg"}
+{"image": "../coco/val2017/000000331075.jpg"}
+{"image": "../coco/val2017/000000138492.jpg"}

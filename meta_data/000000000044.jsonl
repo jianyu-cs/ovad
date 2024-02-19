@@ -1,0 +1,6 @@
+{"utterance": "There are black bicycles or two-colored airplanes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000005477.jpg", "../coco/val2017/000000226903.jpg"]}
+{"image": "../coco/val2017/000000005477.jpg"}
+{"image": "../coco/val2017/000000226903.jpg"}
+{"image": "../coco/val2017/000000571857.jpg"}
+{"image": "../coco/val2017/000000272049.jpg"}
+{"image": "../coco/val2017/000000291634.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are lying remotes or standing cups in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000157046.jpg", "../coco/val2017/000000199771.jpg"]}
+{"image": "../coco/val2017/000000157046.jpg"}
+{"image": "../coco/val2017/000000199771.jpg"}
+{"image": "../coco/val2017/000000119828.jpg"}
+{"image": "../coco/val2017/000000110449.jpg"}
+{"image": "../coco/val2017/000000192904.jpg"}

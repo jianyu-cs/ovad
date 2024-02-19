@@ -1,0 +1,6 @@
+{"utterance": "There are two-colored buss or unicolored ties in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000258541.jpg", "../coco/val2017/000000563604.jpg"]}
+{"image": "../coco/val2017/000000258541.jpg"}
+{"image": "../coco/val2017/000000563604.jpg"}
+{"image": "../coco/val2017/000000052007.jpg"}
+{"image": "../coco/val2017/000000189436.jpg"}
+{"image": "../coco/val2017/000000363875.jpg"}

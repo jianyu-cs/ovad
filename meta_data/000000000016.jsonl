@@ -1,0 +1,6 @@
+{"utterance": "There are tan hot dogs or gray spoons in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000179898.jpg", "../coco/val2017/000000417285.jpg"]}
+{"image": "../coco/val2017/000000179898.jpg"}
+{"image": "../coco/val2017/000000417285.jpg"}
+{"image": "../coco/val2017/000000320664.jpg"}
+{"image": "../coco/val2017/000000083531.jpg"}
+{"image": "../coco/val2017/000000029640.jpg"}

@@ -1,0 +1,6 @@
+{"utterance": "There are tan pizzas or lying knifes in the images", "type": "direct implicature", "referents": ["../coco/val2017/000000007818.jpg", "../coco/val2017/000000099039.jpg"]}
+{"image": "../coco/val2017/000000007818.jpg"}
+{"image": "../coco/val2017/000000099039.jpg"}
+{"image": "../coco/val2017/000000336356.jpg"}
+{"image": "../coco/val2017/000000048396.jpg"}
+{"image": "../coco/val2017/000000361238.jpg"}
